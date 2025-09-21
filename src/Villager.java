@@ -80,11 +80,14 @@ public class Villager implements Comparable <Villager> {
     @Override
     //Compare first by song, then hobby, then personality, then name
     public int compareTo(Villager v) {
-        if (songRank > v.getSongRank()) {
+        if (songRank > v.getSongRank()) {           //finalKKSongRank is listed in reverse order
+            System.out.println(favSong + " is higher than " + v.getFavSong());
             return 1;
         } else if (songRank < v.getSongRank()) {
+            System.out.println(favSong + " is lower than " + v.getFavSong());
             return -1;
         } else { ////MAY NEED TO ALTER THIS BECUAUSE IDK WHAT COMPARE WILL RETURN *******************************************************
+            System.out.println("Same song! Returning " + (personality.compareTo(v.getPersonality()) + hobby.compareTo(v.getHobby()) + name.compareTo(v.getName())));
             return personality.compareTo(v.getPersonality()) + hobby.compareTo(v.getHobby()) + name.compareTo(v.getName());
         }
     }
