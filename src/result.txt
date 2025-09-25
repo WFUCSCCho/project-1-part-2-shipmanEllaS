@@ -1,756 +1,795 @@
-insert Admiral
-insert Agent S
-insert Agnes
-insert Al
-insert Alfonso
-insert Alice
-insert Alli
-insert Amelia
-insert Anabelle
-insert Anchovy
-insert Angus
-insert Anicotti
-insert Ankha
-insert Annalisa
-insert Annalise
-insert Antonio
-insert Apollo
-insert Apple
-insert Astrid
-insert Audie
-insert Aurora
-insert Ava
-insert Avery
-insert Axel
-insert Baabara
-insert Bam
-insert Bangle
-insert Barold
-insert Bea
-insert Beardo
-insert Beau
-insert Becky
-insert Bella
-insert Benedict
-insert Benjamin
-insert Bertha
-insert Bettina
-insert Bianca
-insert Biff
-insert Big Top
-insert Bill
-insert Billy
-insert Biskit
-insert Bitty
-insert Blaire
-insert Blanche
-insert Bluebear
-insert Bob
-insert Bonbon
-insert Bones
-insert Boomer
-insert Boone
-insert Boots
-insert Boris
-insert Boyd
-insert Bree
-insert Broccolo
-insert Broffina
-insert Bruce
-insert Bubbles
-insert Buck
-insert Bud
-insert Bunnie
-insert Butch
-insert Buzz
-insert Cally
-insert Camofrog
-insert Canberra
-insert Candi
-insert Carmen
-insert Caroline
-insert Carrie
-insert Cashmere
-insert Celia
-insert Cesar
-insert Chadder
-insert Charlise
-insert Cheri
-insert Cherry
-insert Chester
-insert Chevre
-insert Chief
-insert Chops
-insert Chow
-insert Chrissy
-insert Claude
-insert Claudia
-insert Clay
-insert Cleo
-insert Clyde
-insert Coach
-insert Cobb
-insert Coco
-insert Cole
-insert Colton
-insert Cookie
-insert Cousteau
-insert Cranston
-insert Croque
-insert Cube
-insert Curlos
-insert Curly
-insert Curt
-insert Cyd
-insert Cyrano
-insert Daisy
-insert Deena
-insert Deirdre
-insert Del
-insert Deli
-insert Derwin
-insert Diana
-insert Diva
-insert Dizzy
-insert Dobie
-insert Doc
-insert Dom
-insert Dora
-insert Dotty
-insert Drago
-insert Drake
-insert Drift
-insert Ed
-insert Egbert
-insert Elise
-insert Ellie
-insert Elmer
-insert Eloise
-insert Elvis
-insert Erik
-insert Eugene
-insert Eunice
-insert Fang
-insert Fauna
-insert Felicity
-insert Filbert
-insert Flip
-insert Flo
-insert Flora
-insert Flurry
-insert Francine
-insert Frank
-insert Freckles
-insert Freya
-insert Friga
-insert Frita
-insert Frobert
-insert Fuchsia
-insert Gabi
-insert Gala
-insert Gaston
-insert Gayle
-insert Genji
-insert Gigi
-insert Gladys
-insert Gloria
-insert Goldie
-insert Gonzo
-insert Goose
-insert Graham
-insert Greta
-insert Grizzly
-insert Groucho
-insert Gruff
-insert Gwen
-insert Hamlet
-insert Hamphrey
-insert Hans
-insert Harry
-insert Hazel
-insert Henry
-insert Hippeux
-insert Hopkins
-insert Hopper
-insert Hornsby
-insert Huck
-insert Hugh
-insert Iggly
-insert Ike
-insert Jacob
-insert Jacques
-insert Jambette
-insert Jay
-insert Jeremiah
-insert Jitters
-insert Joey
-insert Judy
-insert Julia
-insert Julian
-insert June
-insert Kabuki
-insert Katt
-insert Keaton
-insert Ken
-insert Ketchup
-insert Kevin
-insert Kid Cat
-insert Kidd
-insert Kiki
-insert Kitt
-insert Kitty
-insert Klaus
-insert Knox
-insert Kody
-insert Kyle
-insert Leonardo
-insert Leopold
-insert Lily
-insert Limberg
-insert Lionel
-insert Lobo
-insert Lolly
-insert Lopez
-insert Louie
-insert Lucha
-insert Lucky
-insert Lucy
-insert Lyman
-insert Mac
-insert Maddie
-insert Maelle
-insert Maggie
-insert Mallary
-insert Maple
-insert Marcel
-insert Marcie
-insert Margie
-insert Marina
-insert Marshal
-insert Mathilda
-insert Megan
-insert Melba
-insert Merengue
-insert Merry
-insert Midge
-insert Mint
-insert Mira
-insert Miranda
-insert Mitzi
-insert Moe
-insert Molly
-insert Monique
-insert Monty
-insert Moose
-insert Mott
+found Muffy
+removed Admiral
+search failed
+Invalid Command
+removed Muffy
+found Pancetti
+removed Pancetti
+search failed
+search failed
 insert Muffy
-insert Murphy
-insert Nan
-insert Nana
-insert Naomi
-insert Nate
-insert Nibbles
-insert Norma
-insert O'Hare
-insert Octavian
-insert Olaf
-insert Olive
-insert Olivia
-insert Opal
-insert Ozzie
+insert Admiral
 insert Pancetti
-insert Pango
-insert Paolo
-insert Papi
-insert Pashmina
-insert Pate
-insert Patty
-insert Paula
-insert Peaches
-insert Peanut
-insert Pecan
-insert Peck
-insert Peewee
-insert Peggy
-insert Pekoe
-insert Penelope
-insert Phil
-insert Phoebe
-insert Pierce
-insert Pietro
-insert Pinky
-insert Piper
-insert Pippy
-insert Plucky
-insert Pompom
-insert Poncho
-insert Poppy
-insert Portia
-insert Prince
-insert Puck
-insert Puddles
-insert Pudge
-insert Punchy
-insert Purrl
-insert Queenie
-insert Quillson
-insert Raddle
-insert Rasher
-insert Raymond
-insert Renée
-insert Reneigh
-insert Rex
-insert Rhonda
-insert Ribbot
-insert Ricky
-insert Rizzo
-insert Roald
-insert Robin
-insert Rocco
-insert Rocket
-insert Rod
-insert Rodeo
-insert Rodney
-insert Rolf
-insert Rooney
-insert Rory
-insert Roscoe
-insert Rosie
-insert Rowan
-insert Ruby
-insert Rudy
-insert Sally
-insert Samson
-insert Sandy
-insert Savannah
-insert Scoot
-insert Shari
-insert Sheldon
-insert Shep
-insert Sherb
-insert Simon
-insert Skye
-insert Sly
-insert Snake
-insert Snooty
-insert Soleil
-insert Sparro
-insert Spike
-insert Spork
-insert Sprinkle
-insert Sprocket
-insert Static
-insert Stella
-insert Sterling
-insert Stinky
-insert Stitches
-insert Stu
-insert Sydney
-insert Sylvana
-insert Sylvia
-insert T-Bone
-insert Tabby
-insert Tad
-insert Tammi
-insert Tammy
-insert Tangy
-insert Tank
-insert Tasha
-insert Teddy
-insert Tex
-insert Tia
-insert Tiffany
-insert Timbra
-insert Tipper
-insert Tom
-insert Truffles
-insert Tucker
-insert Tutu
-insert Twiggy
-insert Tybalt
-insert Ursala
-insert Velma
-insert Vesta
-insert Vic
-insert Victoria
-insert Violet
-insert Vivian
-insert Vladimir
-insert Wade
-insert Walker
-insert Walt
-insert Wart Jr.
-insert Weber
-insert Wendy
-insert Whitney
-insert Willow
-insert Winnie
-insert Wolfgang
-insert Yuka
-insert Zell
-insert Zucker
+removed Gaston
+Billy's favorite song is K.K. Song! Fitting for a Jock villager who likes Playing. 
+Jacob's favorite song is K.K. Song! Fitting for a Lazy villager who likes Nature. 
+Barold's favorite song is K.K. Song! Fitting for a Lazy villager who likes Playing. 
+Iggly's favorite song is I Love You! Fitting for a Jock villager who likes Fitness. 
+Sparro's favorite song is I Love You! Fitting for a Jock villager who likes Playing. 
+Benedict's favorite song is I Love You! Fitting for a Lazy villager who likes Playing. 
+Broccolo's favorite song is I Love You! Fitting for a Lazy villager who likes Playing. 
+Stitches's favorite song is I Love You! Fitting for a Lazy villager who likes Playing. 
+Carrie's favorite song is I Love You! Fitting for a Normal villager who likes Nature. 
+Tangy's favorite song is I Love You! Fitting for a Peppy villager who likes Music. 
+Apple's favorite song is I Love You! Fitting for a Peppy villager who likes Playing. 
+Bob's favorite song is Neapolitan! Fitting for a Lazy villager who likes Playing. 
+Clyde's favorite song is Neapolitan! Fitting for a Lazy villager who likes Playing. 
+Olive's favorite song is Neapolitan! Fitting for a Normal villager who likes Nature. 
+Anicotti's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
+Gabi's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
+Merry's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
+Truffles's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
+Candi's favorite song is Neapolitan! Fitting for a Peppy villager who likes Playing. 
+Ketchup's favorite song is Neapolitan! Fitting for a Peppy villager who likes Playing. 
+Boone's favorite song is Mountain Song! Fitting for a Jock villager who likes Fitness. 
+Beau's favorite song is Mountain Song! Fitting for a Lazy villager who likes Nature. 
+Norma's favorite song is Mountain Song! Fitting for a Normal villager who likes Nature. 
+Knox's favorite song is K.K. Chorale! Fitting for a Cranky villager who likes Education. 
+Chevre's favorite song is K.K. Chorale! Fitting for a Normal villager who likes Education. 
+Colton's favorite song is K.K. Chorale! Fitting for a Smug villager who likes Nature. 
+Kitty's favorite song is K.K. Chorale! Fitting for a Snooty villager who likes Fashion. 
+Purrl's favorite song is K.K. Chorale! Fitting for a Snooty villager who likes Fashion. 
+Mathilda's favorite song is K.K. Chorale! Fitting for a Snooty villager who likes Fitness. 
+Becky's favorite song is K.K. Chorale! Fitting for a Snooty villager who likes Music. 
+Charlise's favorite song is Mr. K.K.! Fitting for a Big Sister villager who likes Fitness. 
+Coach's favorite song is Mr. K.K.! Fitting for a Jock villager who likes Fitness. 
+Teddy's favorite song is Mr. K.K.! Fitting for a Jock villager who likes Fitness. 
+Benjamin's favorite song is Mr. K.K.! Fitting for a Lazy villager who likes Nature. 
+Raddle's favorite song is Mr. K.K.! Fitting for a Lazy villager who likes Nature. 
+Ozzie's favorite song is Mr. K.K.! Fitting for a Lazy villager who likes Playing. 
+Deena's favorite song is Mr. K.K.! Fitting for a Normal villager who likes Education. 
+Leopold's favorite song is Mr. K.K.! Fitting for a Smug villager who likes Education. 
+Velma's favorite song is Mr. K.K.! Fitting for a Snooty villager who likes Education. 
+Genji's favorite song is King K.K.! Fitting for a Jock villager who likes Fitness. 
+Snake's favorite song is King K.K.! Fitting for a Jock villager who likes Fitness. 
+Annalisa's favorite song is King K.K.! Fitting for a Normal villager who likes Nature. 
+Mira's favorite song is Go K.K. Rider! Fitting for a Big Sister villager who likes Fitness. 
+Kid Cat's favorite song is Go K.K. Rider! Fitting for a Jock villager who likes Fitness. 
+Al's favorite song is Go K.K. Rider! Fitting for a Lazy villager who likes Fitness. 
+Big Top's favorite song is Go K.K. Rider! Fitting for a Lazy villager who likes Playing. 
+Agent S's favorite song is Go K.K. Rider! Fitting for a Peppy villager who likes Fitness. 
+Sylvia's favorite song is DJ K.K.! Fitting for a Big Sister villager who likes Music. 
+Hazel's favorite song is DJ K.K.! Fitting for a Big Sister villager who likes Playing. 
+Tammy's favorite song is DJ K.K.! Fitting for a Big Sister villager who likes Playing. 
+Tabby's favorite song is DJ K.K.! Fitting for a Peppy villager who likes Music. 
+Violet's favorite song is K.K. Bazaar! Fitting for a Snooty villager who likes Fitness. 
+Ankha's favorite song is K.K. Bazaar! Fitting for a Snooty villager who likes Nature. 
+Ursala's favorite song is Café K.K.! Fitting for a Big Sister villager who likes Music. 
+Maelle's favorite song is Café K.K.! Fitting for a Snooty villager who likes Fashion. 
+Angus's favorite song is K.K. Calypso! Fitting for a Cranky villager who likes Fitness. 
+Patty's favorite song is K.K. Calypso! Fitting for a Peppy villager who likes Fashion. 
+Elvis's favorite song is K.K. Casbah! Fitting for a Cranky villager who likes Education. 
+Frank's favorite song is K.K. Casbah! Fitting for a Cranky villager who likes Education. 
 Monty's favorite song is To The Edge! Fitting for a Cranky villager who likes Education. 
-Coco's favorite song is K.K. Jongara! Fitting for a Normal villager who likes Education. 
-Dotty's favorite song is Drivin'! Fitting for a Peppy villager who likes Fashion. 
-Kabuki's favorite song is K.K. Jongara! Fitting for a Cranky villager who likes Music. 
-Bea's favorite song is Drivin'! Fitting for a Normal villager who likes Nature. 
-Buzz's favorite song is Drivin'! Fitting for a Cranky villager who likes Nature. 
-Erik's favorite song is Drivin'! Fitting for a Lazy villager who likes Nature. 
-Gwen's favorite song is Drivin'! Fitting for a Snooty villager who likes Fashion. 
-Huck's favorite song is To The Edge! Fitting for a Smug villager who likes Fitness. 
-Blanche's favorite song is K.K. Jongara! Fitting for a Snooty villager who likes Nature. 
-Pippy's favorite song is Drivin'! Fitting for a Peppy villager who likes Fashion. 
-Maggie's favorite song is Drivin'! Fitting for a Normal villager who likes Nature. 
 Paolo's favorite song is To The Edge! Fitting for a Lazy villager who likes Nature. 
-Keaton's favorite song is Drivin'! Fitting for a Smug villager who likes Music. 
-Sydney's favorite song is Drivin'! Fitting for a Normal villager who likes Music. 
-Cesar's favorite song is K.K. Cruisin'! Fitting for a Cranky villager who likes Fitness. 
-Baabara's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
-Jambette's favorite song is K.K. Cruisin'! Fitting for a Normal villager who likes Fashion. 
-Francine's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
-Shari's favorite song is K.K. Cruisin'! Fitting for a Big Sister villager who likes Music. 
-Monique's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
-Opal's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
-Robin's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
-Vivian's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Education. 
-Pancetti's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Music. 
-Raymond's favorite song is K.K. Cruisin'! Fitting for a Smug villager who likes Nature. 
-Cyd's favorite song is K.K. Metal! Fitting for a Cranky villager who likes Music. 
-Drift's favorite song is K.K. Metal! Fitting for a Jock villager who likes Fitness. 
-Groucho's favorite song is K.K. Metal! Fitting for a Cranky villager who likes Music. 
-Leonardo's favorite song is K.K. Metal! Fitting for a Jock villager who likes Fitness. 
-Bella's favorite song is K.K. Metal! Fitting for a Peppy villager who likes Music. 
-Sprocket's favorite song is K.K. Metal! Fitting for a Jock villager who likes Music. 
-Kyle's favorite song is K.K. Metal! Fitting for a Smug villager who likes Music. 
-Beardo's favorite song is K.K. Milonga! Fitting for a Smug villager who likes Education. 
-Olaf's favorite song is K.K. Milonga! Fitting for a Smug villager who likes Education. 
-Naomi's favorite song is K.K. Milonga! Fitting for a Snooty villager who likes Fashion. 
-Agnes's favorite song is K.K. House! Fitting for a Big Sister villager who likes Playing. 
-Bianca's favorite song is K.K. House! Fitting for a Peppy villager who likes Playing. 
-Spike's favorite song is K.K. House! Fitting for a Cranky villager who likes Nature. 
-Pierce's favorite song is K.K. Gumbo! Fitting for a Jock villager who likes Fitness. 
-Astrid's favorite song is K.K. Gumbo! Fitting for a Snooty villager who likes Music. 
-Queenie's favorite song is K.K. Gumbo! Fitting for a Snooty villager who likes Fashion. 
-Apollo's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Music. 
-Lobo's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Education. 
-Fuchsia's favorite song is K.K. Rock! Fitting for a Big Sister villager who likes Music. 
-Peewee's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Fitness. 
-Ike's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Nature. 
-Tom's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Education. 
-Butch's favorite song is K.K. Western! Fitting for a Cranky villager who likes Music. 
-Lucha's favorite song is K.K. Western! Fitting for a Smug villager who likes Fitness. 
-Biff's favorite song is The K. Funk! Fitting for a Jock villager who likes Fitness. 
-Biskit's favorite song is K.K. Mambo! Fitting for a Lazy villager who likes Playing. 
-Curlos's favorite song is K.K. Salsa! Fitting for a Smug villager who likes Nature. 
-Grizzly's favorite song is K.K. Condor! Fitting for a Cranky villager who likes Education. 
-Avery's favorite song is K.K. Condor! Fitting for a Cranky villager who likes Music. 
-Rolf's favorite song is K.K. Condor! Fitting for a Cranky villager who likes Fitness. 
-Amelia's favorite song is K.K. Condor! Fitting for a Snooty villager who likes Music. 
-Flora's favorite song is K.K. Condor! Fitting for a Peppy villager who likes Playing. 
-Marina's favorite song is Soulful K.K.! Fitting for a Normal villager who likes Music. 
-Tipper's favorite song is Soulful K.K.! Fitting for a Snooty villager who likes Fashion. 
-Yuka's favorite song is Soulful K.K.! Fitting for a Snooty villager who likes Fashion. 
-Pietro's favorite song is K.K. Parade! Fitting for a Smug villager who likes Music. 
-Bangle's favorite song is K.K. Soul! Fitting for a Peppy villager who likes Fashion. 
-Alli's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
-Eloise's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
-Celia's favorite song is K.K. Soul! Fitting for a Normal villager who likes Nature. 
-Mint's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
-Henry's favorite song is K.K. Soul! Fitting for a Smug villager who likes Music. 
-Pompom's favorite song is K.K. Soul! Fitting for a Peppy villager who likes Music. 
-Sandy's favorite song is K.K. Soul! Fitting for a Normal villager who likes Nature. 
-Whitney's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
-Willow's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
-Boyd's favorite song is K.K. Groove! Fitting for a Cranky villager who likes Fitness. 
-Tybalt's favorite song is K.K. Groove! Fitting for a Jock villager who likes Playing. 
-Quillson's favorite song is K.K. Groove! Fitting for a Smug villager who likes Music. 
+Huck's favorite song is To The Edge! Fitting for a Smug villager who likes Fitness. 
+Antonio's favorite song is K.K. Ragtime! Fitting for a Jock villager who likes Fitness. 
+Frobert's favorite song is K.K. Ragtime! Fitting for a Jock villager who likes Fitness. 
+Anchovy's favorite song is K.K. Ragtime! Fitting for a Lazy villager who likes Playing. 
+Tiffany's favorite song is K.K. Ragtime! Fitting for a Snooty villager who likes Fashion. 
+Axel's favorite song is K.K. Dixie! Fitting for a Jock villager who likes Fitness. 
+Mitzi's favorite song is K.K. Love Song! Fitting for a Normal villager who likes Education. 
+Ava's favorite song is K.K. Love Song! Fitting for a Normal villager who likes Music. 
+Timbra's favorite song is K.K. Love Song! Fitting for a Snooty villager who likes Education. 
+Pecan's favorite song is K.K. Love Song! Fitting for a Snooty villager who likes Fashion. 
+Boomer's favorite song is Farewell! Fitting for a Lazy villager who likes Fitness. 
+Cube's favorite song is Farewell! Fitting for a Lazy villager who likes Playing. 
+Lily's favorite song is Farewell! Fitting for a Normal villager who likes Education. 
+Diana's favorite song is Farewell! Fitting for a Snooty villager who likes Education. 
+Cashmere's favorite song is Farewell! Fitting for a Snooty villager who likes Fashion. 
+Friga's favorite song is Farewell! Fitting for a Snooty villager who likes Fashion. 
+Boots's favorite song is Wandering! Fitting for a Jock villager who likes Playing. 
+Tad's favorite song is Wandering! Fitting for a Jock villager who likes Playing. 
+Rex's favorite song is Wandering! Fitting for a Lazy villager who likes Nature. 
+Rory's favorite song is K.K. Faire! Fitting for a Jock villager who likes Music. 
+Cole's favorite song is K.K. Faire! Fitting for a Lazy villager who likes Nature. 
+Cranston's favorite song is K.K. Faire! Fitting for a Lazy villager who likes Nature. 
+Dora's favorite song is K.K. Faire! Fitting for a Normal villager who likes Education. 
+Ribbot's favorite song is K.K. Technopop! Fitting for a Jock villager who likes Fitness. 
+Rodeo's favorite song is K.K. Technopop! Fitting for a Lazy villager who likes Fitness. 
+Jacques's favorite song is K.K. Technopop! Fitting for a Smug villager who likes Music. 
+Judy's favorite song is K.K. Lullaby! Fitting for a Snooty villager who likes Music. 
+Bud's favorite song is Aloha K.K.! Fitting for a Jock villager who likes Fitness. 
+Alice's favorite song is Aloha K.K.! Fitting for a Normal villager who likes Education. 
+Anabelle's favorite song is Aloha K.K.! Fitting for a Peppy villager who likes Fashion. 
+Annalise's favorite song is Aloha K.K.! Fitting for a Snooty villager who likes Fashion. 
+Bettina's favorite song is Animal City! Fitting for a Normal villager who likes Education. 
+Gala's favorite song is Animal City! Fitting for a Normal villager who likes Education. 
+Gloria's favorite song is Animal City! Fitting for a Snooty villager who likes Fashion. 
+Diva's favorite song is K.K. Oasis! Fitting for a Big Sister villager who likes Fitness. 
+Boris's favorite song is K.K. Oasis! Fitting for a Cranky villager who likes Nature. 
+Pango's favorite song is K.K. Oasis! Fitting for a Peppy villager who likes Fashion. 
+Soleil's favorite song is K.K. Oasis! Fitting for a Snooty villager who likes Education. 
+Curly's favorite song is K.K. Reggae! Fitting for a Jock villager who likes Fitness. 
+Hamlet's favorite song is K.K. Reggae! Fitting for a Jock villager who likes Playing. 
+Dizzy's favorite song is Two Days Ago! Fitting for a Lazy villager who likes Playing. 
+Moe's favorite song is Two Days Ago! Fitting for a Lazy villager who likes Playing. 
+Walker's favorite song is Two Days Ago! Fitting for a Lazy villager who likes Playing. 
+Bertha's favorite song is Two Days Ago! Fitting for a Normal villager who likes Education. 
+Vic's favorite song is K.K. March! Fitting for a Cranky villager who likes Fitness. 
+Roald's favorite song is K.K. March! Fitting for a Jock villager who likes Fitness. 
+Rod's favorite song is K.K. March! Fitting for a Jock villager who likes Fitness. 
+Puck's favorite song is K.K. March! Fitting for a Lazy villager who likes Fitness. 
+Rocket's favorite song is K.K. Adventure! Fitting for a Big Sister villager who likes Fitness. 
+Rooney's favorite song is K.K. Adventure! Fitting for a Cranky villager who likes Fitness. 
+Jitters's favorite song is K.K. Adventure! Fitting for a Jock villager who likes Fitness. 
+Victoria's favorite song is K.K. Adventure! Fitting for a Peppy villager who likes Fitness. 
+Margie's favorite song is K.K. Marathon! Fitting for a Normal villager who likes Education. 
+Sprinkle's favorite song is K.K. Marathon! Fitting for a Peppy villager who likes Playing. 
+Del's favorite song is Pondering! Fitting for a Cranky villager who likes Fitness. 
+Cobb's favorite song is Pondering! Fitting for a Jock villager who likes Education. 
+Doc's favorite song is Pondering! Fitting for a Lazy villager who likes Education. 
+Claude's favorite song is Pondering! Fitting for a Lazy villager who likes Nature. 
+Hopkins's favorite song is Pondering! Fitting for a Lazy villager who likes Nature. 
+Caroline's favorite song is Pondering! Fitting for a Normal villager who likes Music. 
+Buck's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
+Kody's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
+Mac's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
+Scoot's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
+Peck's favorite song is My Place! Fitting for a Jock villager who likes Playing. 
+Hugh's favorite song is My Place! Fitting for a Lazy villager who likes Playing. 
+Derwin's favorite song is K.K. Stroll! Fitting for a Lazy villager who likes Playing. 
+Pudge's favorite song is K.K. Stroll! Fitting for a Lazy villager who likes Playing. 
+Melba's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Education. 
+Midge's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Education. 
+Cally's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Nature. 
+Fauna's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Nature. 
+Bubbles's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Fashion. 
+Carmen's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Fashion. 
+Felicity's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Fashion. 
+Maddie's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Playing. 
+Filbert's favorite song is Stale Cupcakes! Fitting for a Lazy villager who likes Nature. 
+Wade's favorite song is Stale Cupcakes! Fitting for a Lazy villager who likes Nature. 
+Aurora's favorite song is Stale Cupcakes! Fitting for a Normal villager who likes Education. 
+Kitt's favorite song is Stale Cupcakes! Fitting for a Normal villager who likes Education. 
+Ruby's favorite song is Stale Cupcakes! Fitting for a Peppy villager who likes Nature. 
+Alfonso's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
+Nate's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
+Punchy's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
+Spork's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
+Daisy's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
+Maple's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
+Peaches's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
+Poppy's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
+Vesta's favorite song is Forest Life! Fitting for a Normal villager who likes Fashion. 
+Lolly's favorite song is Forest Life! Fitting for a Normal villager who likes Music. 
+Savannah's favorite song is Forest Life! Fitting for a Normal villager who likes Music. 
+Skye's favorite song is Forest Life! Fitting for a Normal villager who likes Music. 
+Megan's favorite song is Forest Life! Fitting for a Normal villager who likes Nature. 
+Bunnie's favorite song is Forest Life! Fitting for a Peppy villager who likes Fashion. 
+Peanut's favorite song is Forest Life! Fitting for a Peppy villager who likes Fashion. 
+Admiral's favorite song is Steep Hill! Fitting for a Cranky villager who likes Nature. 
+Joey's favorite song is Marine Song 2001! Fitting for a Lazy villager who likes Playing. 
+Freckles's favorite song is Marine Song 2001! Fitting for a Peppy villager who likes Fashion. 
+Dobie's favorite song is Agent K.K.! Fitting for a Cranky villager who likes Nature. 
+Vladimir's favorite song is Agent K.K.! Fitting for a Cranky villager who likes Playing. 
+Eugene's favorite song is Agent K.K.! Fitting for a Smug villager who likes Music. 
+Cyrano's favorite song is K.K. Lament! Fitting for a Cranky villager who likes Education. 
+Rocco's favorite song is K.K. Lament! Fitting for a Cranky villager who likes Education. 
+Walt's favorite song is K.K. Lament! Fitting for a Cranky villager who likes Fitness. 
+Tank's favorite song is K.K. Lament! Fitting for a Jock villager who likes Fitness. 
+Hornsby's favorite song is K.K. Lament! Fitting for a Lazy villager who likes Nature. 
+Marcie's favorite song is K.K. Aria! Fitting for a Normal villager who likes Nature. 
+Harry's favorite song is K.K. Rally! Fitting for a Cranky villager who likes Education. 
+Flip's favorite song is K.K. Rally! Fitting for a Jock villager who likes Music. 
+Ken's favorite song is K.K. Rally! Fitting for a Smug villager who likes Education. 
+Cherry's favorite song is K.K. D&B! Fitting for a Big Sister villager who likes Music. 
+Wolfgang's favorite song is K.K. D&B! Fitting for a Cranky villager who likes Education. 
+Roscoe's favorite song is K.K. D&B! Fitting for a Cranky villager who likes Music. 
+Octavian's favorite song is K.K. D&B! Fitting for a Cranky villager who likes Playing. 
+Tex's favorite song is K.K. D&B! Fitting for a Smug villager who likes Music. 
+Lopez's favorite song is K.K. Jazz! Fitting for a Smug villager who likes Education. 
+Goose's favorite song is K.K. Country! Fitting for a Jock villager who likes Fitness. 
+Jay's favorite song is K.K. Country! Fitting for a Jock villager who likes Fitness. 
+Dom's favorite song is K.K. Country! Fitting for a Jock villager who likes Playing. 
+Sheldon's favorite song is K.K. Country! Fitting for a Jock villager who likes Playing. 
+Elmer's favorite song is K.K. Country! Fitting for a Lazy villager who likes Playing. 
+Winnie's favorite song is K.K. Country! Fitting for a Peppy villager who likes Fashion. 
+Shep's favorite song is K.K. Swing! Fitting for a Smug villager who likes Education. 
+Zell's favorite song is K.K. Swing! Fitting for a Smug villager who likes Music. 
+Gigi's favorite song is K.K. Swing! Fitting for a Snooty villager who likes Fashion. 
+Canberra's favorite song is K.K. Island! Fitting for a Big Sister villager who likes Playing. 
+Plucky's favorite song is K.K. Island! Fitting for a Big Sister villager who likes Playing. 
+June's favorite song is K.K. Island! Fitting for a Normal villager who likes Nature. 
+Audie's favorite song is K.K. Island! Fitting for a Peppy villager who likes Fitness. 
+O'Hare's favorite song is K.K. Island! Fitting for a Smug villager who likes Nature. 
+Paula's favorite song is K.K. Disco! Fitting for a Big Sister villager who likes Fitness. 
+Katt's favorite song is K.K. Disco! Fitting for a Big Sister villager who likes Music. 
+Pashmina's favorite song is K.K. Disco! Fitting for a Big Sister villager who likes Music. 
+Eunice's favorite song is K.K. Disco! Fitting for a Normal villager who likes Fashion. 
+Cheri's favorite song is K.K. Disco! Fitting for a Peppy villager who likes Fashion. 
+Nibbles's favorite song is K.K. Disco! Fitting for a Peppy villager who likes Fashion. 
+Puddles's favorite song is K.K. Disco! Fitting for a Peppy villager who likes Fashion. 
+Bitty's favorite song is K.K. Disco! Fitting for a Snooty villager who likes Education. 
+Portia's favorite song is K.K. Disco! Fitting for a Snooty villager who likes Fashion. 
+Deli's favorite song is K.K. Étude! Fitting for a Lazy villager who likes Nature. 
+Bones's favorite song is K.K. Étude! Fitting for a Lazy villager who likes Playing. 
+Nan's favorite song is K.K. Étude! Fitting for a Normal villager who likes Nature. 
+Kidd's favorite song is K.K. Tango! Fitting for a Smug villager who likes Education. 
+Murphy's favorite song is K.K. Safari! Fitting for a Cranky villager who likes Education. 
+Ricky's favorite song is K.K. Safari! Fitting for a Cranky villager who likes Education. 
+Camofrog's favorite song is K.K. Safari! Fitting for a Cranky villager who likes Music. 
+Lyman's favorite song is K.K. Safari! Fitting for a Jock villager who likes Playing. 
+Sly's favorite song is K.K. Safari! Fitting for a Jock villager who likes Playing. 
+Clay's favorite song is K.K. Safari! Fitting for a Lazy villager who likes Nature. 
+Tucker's favorite song is K.K. Safari! Fitting for a Lazy villager who likes Nature. 
+Simon's favorite song is K.K. Safari! Fitting for a Lazy villager who likes Playing. 
+Fang's favorite song is K.K. Steppe! Fitting for a Cranky villager who likes Education. 
+T-Bone's favorite song is K.K. Steppe! Fitting for a Cranky villager who likes Education. 
+Phoebe's favorite song is K.K. Flamenco! Fitting for a Big Sister villager who likes Fitness. 
+Stinky's favorite song is K.K. Flamenco! Fitting for a Jock villager who likes Fitness. 
+Broffina's favorite song is K.K. Flamenco! Fitting for a Snooty villager who likes Music. 
+Reneigh's favorite song is K.K. Synth! Fitting for a Big Sister villager who likes Playing. 
+Piper's favorite song is K.K. Synth! Fitting for a Peppy villager who likes Playing. 
+Tasha's favorite song is K.K. Synth! Fitting for a Snooty villager who likes Fitness. 
+Claudia's favorite song is K.K. Synth! Fitting for a Snooty villager who likes Music. 
+Zucker's favorite song is Spring Blossoms! Fitting for a Lazy villager who likes Nature. 
+Sylvana's favorite song is Spring Blossoms! Fitting for a Normal villager who likes Nature. 
+Frita's favorite song is K.K. Rockabilly! Fitting for a Big Sister villager who likes Music. 
+Gruff's favorite song is K.K. Rockabilly! Fitting for a Cranky villager who likes Music. 
+Rasher's favorite song is K.K. Rockabilly! Fitting for a Cranky villager who likes Music. 
+Moose's favorite song is K.K. Rockabilly! Fitting for a Jock villager who likes Fitness. 
+Kevin's favorite song is K.K. Rockabilly! Fitting for a Jock villager who likes Playing. 
+Stu's favorite song is K.K. Rockabilly! Fitting for a Lazy villager who likes Nature. 
+Rodney's favorite song is K.K. Rockabilly! Fitting for a Smug villager who likes Music. 
+Louie's favorite song is K.K. Fusion! Fitting for a Jock villager who likes Fitness. 
+Mott's favorite song is K.K. Fusion! Fitting for a Jock villager who likes Fitness. 
+Weber's favorite song is K.K. Fusion! Fitting for a Lazy villager who likes Nature. 
+Cleo's favorite song is K.K. Fusion! Fitting for a Snooty villager who likes Education. 
+Sterling's favorite song is K.K. Dirge! Fitting for a Jock villager who likes Fitness. 
+Lucky's favorite song is K.K. Dirge! Fitting for a Lazy villager who likes Playing. 
+Muffy's favorite song is K.K. Sonata! Fitting for a Big Sister villager who likes Music. 
+Lucy's favorite song is K.K. Sonata! Fitting for a Normal villager who likes Music. 
+Hippeux's favorite song is K.K. Sonata! Fitting for a Smug villager who likes Education. 
+Klaus's favorite song is K.K. Sonata! Fitting for a Smug villager who likes Education. 
+Hans's favorite song is K.K. Sonata! Fitting for a Smug villager who likes Fitness. 
+Julia's favorite song is K.K. Sonata! Fitting for a Snooty villager who likes Education. 
+Miranda's favorite song is K.K. Sonata! Fitting for a Snooty villager who likes Fashion. 
+Olivia's favorite song is K.K. Sonata! Fitting for a Snooty villager who likes Music. 
+Egbert's favorite song is Lucky K.K.! Fitting for a Lazy villager who likes Playing. 
+Freya's favorite song is Lucky K.K.! Fitting for a Snooty villager who likes Fashion. 
+Chops's favorite song is K.K. Moody! Fitting for a Smug villager who likes Education. 
+Lionel's favorite song is K.K. Moody! Fitting for a Smug villager who likes Music. 
+Phil's favorite song is K.K. Moody! Fitting for a Smug villager who likes Music. 
+Limberg's favorite song is K.K. Folk! Fitting for a Cranky villager who likes Education. 
+Rizzo's favorite song is K.K. Folk! Fitting for a Cranky villager who likes Education. 
+Croque's favorite song is K.K. Folk! Fitting for a Cranky villager who likes Nature. 
+Gladys's favorite song is K.K. Folk! Fitting for a Normal villager who likes Education. 
+Snooty's favorite song is K.K. Folk! Fitting for a Snooty villager who likes Education. 
+Hopper's favorite song is Comrade K.K.! Fitting for a Cranky villager who likes Music. 
+Curt's favorite song is Comrade K.K.! Fitting for a Cranky villager who likes Nature. 
+Hamphrey's favorite song is Comrade K.K.! Fitting for a Cranky villager who likes Nature. 
+Marcel's favorite song is Comrade K.K.! Fitting for a Lazy villager who likes Playing. 
+Greta's favorite song is Comrade K.K.! Fitting for a Snooty villager who likes Education. 
+Nana's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Education. 
+Rhonda's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Music. 
+Ellie's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Nature. 
+Merengue's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Nature. 
+Molly's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Nature. 
+Ed's favorite song is K.K. Ballad! Fitting for a Smug villager who likes Nature. 
+Renée's favorite song is Surfin' K.K.! Fitting for a Big Sister villager who likes Music. 
+Static's favorite song is Surfin' K.K.! Fitting for a Cranky villager who likes Music. 
+Gonzo's favorite song is Surfin' K.K.! Fitting for a Cranky villager who likes Nature. 
+Rowan's favorite song is Surfin' K.K.! Fitting for a Jock villager who likes Fitness. 
+Chief's favorite song is Rockin' K.K.! Fitting for a Cranky villager who likes Music. 
+Samson's favorite song is Rockin' K.K.! Fitting for a Jock villager who likes Fitness. 
+Papi's favorite song is Hypno K.K.! Fitting for a Lazy villager who likes Nature. 
+Sherb's favorite song is Hypno K.K.! Fitting for a Lazy villager who likes Nature. 
+Jeremiah's favorite song is Hypno K.K.! Fitting for a Lazy villager who likes Playing. 
+Flurry's favorite song is Hypno K.K.! Fitting for a Normal villager who likes Nature. 
+Flo's favorite song is Space K.K.! Fitting for a Big Sister villager who likes Music. 
+Wendy's favorite song is Space K.K.! Fitting for a Peppy villager who likes Fashion. 
+Julian's favorite song is Space K.K.! Fitting for a Smug villager who likes Music. 
+Gayle's favorite song is Bubblegum K.K.! Fitting for a Normal villager who likes Nature. 
+Chrissy's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Cookie's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Penelope's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Tutu's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Twiggy's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Rosie's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Music. 
+Bonbon's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Playing. 
+Graham's favorite song is Bubblegum K.K.! Fitting for a Smug villager who likes Education. 
+Bruce's favorite song is K.K. Blues! Fitting for a Cranky villager who likes Nature. 
+Poncho's favorite song is K.K. Blues! Fitting for a Jock villager who likes Fitness. 
+Bam's favorite song is K.K. Blues! Fitting for a Jock villager who likes Playing. 
+Rudy's favorite song is K.K. Blues! Fitting for a Jock villager who likes Playing. 
+Drake's favorite song is K.K. Blues! Fitting for a Lazy villager who likes Playing. 
+Prince's favorite song is Only Me! Fitting for a Lazy villager who likes Playing. 
+Kiki's favorite song is Only Me! Fitting for a Normal villager who likes Education. 
+Sally's favorite song is Only Me! Fitting for a Normal villager who likes Music. 
+Stella's favorite song is Only Me! Fitting for a Normal villager who likes Nature. 
+Bluebear's favorite song is Only Me! Fitting for a Peppy villager who likes Fashion. 
+Deirdre's favorite song is K.K. Bossa! Fitting for a Big Sister villager who likes Playing. 
+Goldie's favorite song is K.K. Bossa! Fitting for a Normal villager who likes Nature. 
+Tia's favorite song is K.K. Bossa! Fitting for a Normal villager who likes Nature. 
+Peggy's favorite song is K.K. Bossa! Fitting for a Peppy villager who likes Fashion. 
+Marshal's favorite song is K.K. Bossa! Fitting for a Smug villager who likes Music. 
+Blaire's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
+Bree's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
+Elise's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
+Mallary's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
 Chow's favorite song is Imperial K.K.! Fitting for a Cranky villager who likes Fitness. 
 Cousteau's favorite song is Imperial K.K.! Fitting for a Jock villager who likes Fitness. 
 Bill's favorite song is Imperial K.K.! Fitting for a Jock villager who likes Playing. 
 Drago's favorite song is Imperial K.K.! Fitting for a Lazy villager who likes Nature. 
 Chester's favorite song is Imperial K.K.! Fitting for a Lazy villager who likes Playing. 
+Pekoe's favorite song is Imperial K.K.! Fitting for a Normal villager who likes Nature. 
 Pinky's favorite song is Imperial K.K.! Fitting for a Peppy villager who likes Fashion. 
 Tammi's favorite song is Imperial K.K.! Fitting for a Peppy villager who likes Fashion. 
-Pekoe's favorite song is Imperial K.K.! Fitting for a Normal villager who likes Nature. 
-Deirdre's favorite song is K.K. Bossa! Fitting for a Big Sister villager who likes Playing. 
-Blaire's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
-Bree's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
-Elise's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
-Goldie's favorite song is K.K. Bossa! Fitting for a Normal villager who likes Nature. 
-Mallary's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
-Marshal's favorite song is K.K. Bossa! Fitting for a Smug villager who likes Music. 
-Tia's favorite song is K.K. Bossa! Fitting for a Normal villager who likes Nature. 
-Bluebear's favorite song is Only Me! Fitting for a Peppy villager who likes Fashion. 
-Kiki's favorite song is Only Me! Fitting for a Normal villager who likes Education. 
-Prince's favorite song is Only Me! Fitting for a Lazy villager who likes Playing. 
-Sally's favorite song is Only Me! Fitting for a Normal villager who likes Music. 
-Stella's favorite song is Only Me! Fitting for a Normal villager who likes Nature. 
-Bam's favorite song is K.K. Blues! Fitting for a Jock villager who likes Playing. 
-Bruce's favorite song is K.K. Blues! Fitting for a Cranky villager who likes Nature. 
-Drake's favorite song is K.K. Blues! Fitting for a Lazy villager who likes Playing. 
-Rudy's favorite song is K.K. Blues! Fitting for a Jock villager who likes Playing. 
-Chrissy's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
-Cookie's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
-Graham's favorite song is Bubblegum K.K.! Fitting for a Smug villager who likes Education. 
-Bonbon's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Playing. 
-Gayle's favorite song is Bubblegum K.K.! Fitting for a Normal villager who likes Nature. 
-Penelope's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
-Tutu's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
-Twiggy's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
-Rosie's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Music. 
-Flo's favorite song is Space K.K.! Fitting for a Big Sister villager who likes Music. 
-Julian's favorite song is Space K.K.! Fitting for a Smug villager who likes Music. 
-Wendy's favorite song is Space K.K.! Fitting for a Peppy villager who likes Fashion. 
-Flurry's favorite song is Hypno K.K.! Fitting for a Normal villager who likes Nature. 
-Jeremiah's favorite song is Hypno K.K.! Fitting for a Lazy villager who likes Playing. 
-Papi's favorite song is Hypno K.K.! Fitting for a Lazy villager who likes Nature. 
-Sherb's favorite song is Hypno K.K.! Fitting for a Lazy villager who likes Nature. 
-Chief's favorite song is Rockin' K.K.! Fitting for a Cranky villager who likes Music. 
-Samson's favorite song is Rockin' K.K.! Fitting for a Jock villager who likes Fitness. 
-Gonzo's favorite song is Surfin' K.K.! Fitting for a Cranky villager who likes Nature. 
-Renée's favorite song is Surfin' K.K.! Fitting for a Big Sister villager who likes Music. 
-Rowan's favorite song is Surfin' K.K.! Fitting for a Jock villager who likes Fitness. 
-Static's favorite song is Surfin' K.K.! Fitting for a Cranky villager who likes Music. 
-Nana's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Education. 
-Ed's favorite song is K.K. Ballad! Fitting for a Smug villager who likes Nature. 
-Ellie's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Nature. 
-Merengue's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Nature. 
-Molly's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Nature. 
-Rhonda's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Music. 
-Curt's favorite song is Comrade K.K.! Fitting for a Cranky villager who likes Nature. 
-Hamphrey's favorite song is Comrade K.K.! Fitting for a Cranky villager who likes Nature. 
-Hopper's favorite song is Comrade K.K.! Fitting for a Cranky villager who likes Music. 
-Greta's favorite song is Comrade K.K.! Fitting for a Snooty villager who likes Education. 
-Marcel's favorite song is Comrade K.K.! Fitting for a Lazy villager who likes Playing. 
-Croque's favorite song is K.K. Folk! Fitting for a Cranky villager who likes Nature. 
-Gladys's favorite song is K.K. Folk! Fitting for a Normal villager who likes Education. 
-Snooty's favorite song is K.K. Folk! Fitting for a Snooty villager who likes Education. 
-Chops's favorite song is K.K. Moody! Fitting for a Smug villager who likes Education. 
-Lionel's favorite song is K.K. Moody! Fitting for a Smug villager who likes Music. 
-Phil's favorite song is K.K. Moody! Fitting for a Smug villager who likes Music. 
-Freya's favorite song is Lucky K.K.! Fitting for a Snooty villager who likes Fashion. 
-Egbert's favorite song is Lucky K.K.! Fitting for a Lazy villager who likes Playing. 
-Miranda's favorite song is K.K. Sonata! Fitting for a Snooty villager who likes Fashion. 
-Muffy's favorite song is K.K. Sonata! Fitting for a Big Sister villager who likes Music. 
-Hans's favorite song is K.K. Sonata! Fitting for a Smug villager who likes Fitness. 
-Hippeux's favorite song is K.K. Sonata! Fitting for a Smug villager who likes Education. 
-Julia's favorite song is K.K. Sonata! Fitting for a Snooty villager who likes Education. 
-Lucy's favorite song is K.K. Sonata! Fitting for a Normal villager who likes Music. 
-Olivia's favorite song is K.K. Sonata! Fitting for a Snooty villager who likes Music. 
-Sterling's favorite song is K.K. Dirge! Fitting for a Jock villager who likes Fitness. 
-Lucky's favorite song is K.K. Dirge! Fitting for a Lazy villager who likes Playing. 
-Cleo's favorite song is K.K. Fusion! Fitting for a Snooty villager who likes Education. 
-Louie's favorite song is K.K. Fusion! Fitting for a Jock villager who likes Fitness. 
-Mott's favorite song is K.K. Fusion! Fitting for a Jock villager who likes Fitness. 
-Weber's favorite song is K.K. Fusion! Fitting for a Lazy villager who likes Nature. 
-Frita's favorite song is K.K. Rockabilly! Fitting for a Big Sister villager who likes Music. 
-Gruff's favorite song is K.K. Rockabilly! Fitting for a Cranky villager who likes Music. 
-Moose's favorite song is K.K. Rockabilly! Fitting for a Jock villager who likes Fitness. 
-Rasher's favorite song is K.K. Rockabilly! Fitting for a Cranky villager who likes Music. 
-Kevin's favorite song is K.K. Rockabilly! Fitting for a Jock villager who likes Playing. 
-Stu's favorite song is K.K. Rockabilly! Fitting for a Lazy villager who likes Nature. 
-Rodney's favorite song is K.K. Rockabilly! Fitting for a Smug villager who likes Music. 
-Sylvana's favorite song is Spring Blossoms! Fitting for a Normal villager who likes Nature. 
-Zucker's favorite song is Spring Blossoms! Fitting for a Lazy villager who likes Nature. 
-Claudia's favorite song is K.K. Synth! Fitting for a Snooty villager who likes Music. 
-Reneigh's favorite song is K.K. Synth! Fitting for a Big Sister villager who likes Playing. 
-Tasha's favorite song is K.K. Synth! Fitting for a Snooty villager who likes Fitness. 
-Piper's favorite song is K.K. Synth! Fitting for a Peppy villager who likes Playing. 
-Phoebe's favorite song is K.K. Flamenco! Fitting for a Big Sister villager who likes Fitness. 
-Broffina's favorite song is K.K. Flamenco! Fitting for a Snooty villager who likes Music. 
-Stinky's favorite song is K.K. Flamenco! Fitting for a Jock villager who likes Fitness. 
-Fang's favorite song is K.K. Steppe! Fitting for a Cranky villager who likes Education. 
-T-Bone's favorite song is K.K. Steppe! Fitting for a Cranky villager who likes Education. 
-Camofrog's favorite song is K.K. Safari! Fitting for a Cranky villager who likes Music. 
-Murphy's favorite song is K.K. Safari! Fitting for a Cranky villager who likes Education. 
-Ricky's favorite song is K.K. Safari! Fitting for a Cranky villager who likes Education. 
-Clay's favorite song is K.K. Safari! Fitting for a Lazy villager who likes Nature. 
-Lyman's favorite song is K.K. Safari! Fitting for a Jock villager who likes Playing. 
-Tucker's favorite song is K.K. Safari! Fitting for a Lazy villager who likes Nature. 
-Simon's favorite song is K.K. Safari! Fitting for a Lazy villager who likes Playing. 
-Sly's favorite song is K.K. Safari! Fitting for a Jock villager who likes Playing. 
-Kidd's favorite song is K.K. Tango! Fitting for a Smug villager who likes Education. 
-Bones's favorite song is K.K. Étude! Fitting for a Lazy villager who likes Playing. 
-Nan's favorite song is K.K. Étude! Fitting for a Normal villager who likes Nature. 
-Cheri's favorite song is K.K. Disco! Fitting for a Peppy villager who likes Fashion. 
-Paula's favorite song is K.K. Disco! Fitting for a Big Sister villager who likes Fitness. 
-Bitty's favorite song is K.K. Disco! Fitting for a Snooty villager who likes Education. 
-Pashmina's favorite song is K.K. Disco! Fitting for a Big Sister villager who likes Music. 
-Nibbles's favorite song is K.K. Disco! Fitting for a Peppy villager who likes Fashion. 
-Portia's favorite song is K.K. Disco! Fitting for a Snooty villager who likes Fashion. 
-Puddles's favorite song is K.K. Disco! Fitting for a Peppy villager who likes Fashion. 
-Canberra's favorite song is K.K. Island! Fitting for a Big Sister villager who likes Playing. 
-Audie's favorite song is K.K. Island! Fitting for a Peppy villager who likes Fitness. 
-Plucky's favorite song is K.K. Island! Fitting for a Big Sister villager who likes Playing. 
-June's favorite song is K.K. Island! Fitting for a Normal villager who likes Nature. 
-O'Hare's favorite song is K.K. Island! Fitting for a Smug villager who likes Nature. 
-Gigi's favorite song is K.K. Swing! Fitting for a Snooty villager who likes Fashion. 
-Shep's favorite song is K.K. Swing! Fitting for a Smug villager who likes Education. 
-Zell's favorite song is K.K. Swing! Fitting for a Smug villager who likes Music. 
-Goose's favorite song is K.K. Country! Fitting for a Jock villager who likes Fitness. 
-Jay's favorite song is K.K. Country! Fitting for a Jock villager who likes Fitness. 
-Dom's favorite song is K.K. Country! Fitting for a Jock villager who likes Playing. 
-Elmer's favorite song is K.K. Country! Fitting for a Lazy villager who likes Playing. 
-Sheldon's favorite song is K.K. Country! Fitting for a Jock villager who likes Playing. 
-Lopez's favorite song is K.K. Jazz! Fitting for a Smug villager who likes Education. 
-Cherry's favorite song is K.K. D&B! Fitting for a Big Sister villager who likes Music. 
-Wolfgang's favorite song is K.K. D&B! Fitting for a Cranky villager who likes Education. 
-Octavian's favorite song is K.K. D&B! Fitting for a Cranky villager who likes Playing. 
-Tex's favorite song is K.K. D&B! Fitting for a Smug villager who likes Music. 
-Harry's favorite song is K.K. Rally! Fitting for a Cranky villager who likes Education. 
-Flip's favorite song is K.K. Rally! Fitting for a Jock villager who likes Music. 
-Ken's favorite song is K.K. Rally! Fitting for a Smug villager who likes Education. 
-Marcie's favorite song is K.K. Aria! Fitting for a Normal villager who likes Nature. 
-Cyrano's favorite song is K.K. Lament! Fitting for a Cranky villager who likes Education. 
-Rocco's favorite song is K.K. Lament! Fitting for a Cranky villager who likes Education. 
-Walt's favorite song is K.K. Lament! Fitting for a Cranky villager who likes Fitness. 
-Hornsby's favorite song is K.K. Lament! Fitting for a Lazy villager who likes Nature. 
-Tank's favorite song is K.K. Lament! Fitting for a Jock villager who likes Fitness. 
-Dobie's favorite song is Agent K.K.! Fitting for a Cranky villager who likes Nature. 
-Eugene's favorite song is Agent K.K.! Fitting for a Smug villager who likes Music. 
-Vladimir's favorite song is Agent K.K.! Fitting for a Cranky villager who likes Playing. 
-Freckles's favorite song is Marine Song 2001! Fitting for a Peppy villager who likes Fashion. 
-Joey's favorite song is Marine Song 2001! Fitting for a Lazy villager who likes Playing. 
-Admiral's favorite song is Steep Hill! Fitting for a Cranky villager who likes Nature. 
-Wart Jr.'s favorite song is Steep Hill! Fitting for a Cranky villager who likes Education. 
-Daisy's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
-Bunnie's favorite song is Forest Life! Fitting for a Peppy villager who likes Fashion. 
-Alfonso's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
-Maple's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
-Peaches's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
-Peanut's favorite song is Forest Life! Fitting for a Peppy villager who likes Fashion. 
-Poppy's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
-Lolly's favorite song is Forest Life! Fitting for a Normal villager who likes Music. 
-Megan's favorite song is Forest Life! Fitting for a Normal villager who likes Nature. 
-Nate's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
-Punchy's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
-Savannah's favorite song is Forest Life! Fitting for a Normal villager who likes Music. 
-Skye's favorite song is Forest Life! Fitting for a Normal villager who likes Music. 
-Spork's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
-Aurora's favorite song is Stale Cupcakes! Fitting for a Normal villager who likes Education. 
-Kitt's favorite song is Stale Cupcakes! Fitting for a Normal villager who likes Education. 
-Filbert's favorite song is Stale Cupcakes! Fitting for a Lazy villager who likes Nature. 
-Ruby's favorite song is Stale Cupcakes! Fitting for a Peppy villager who likes Nature. 
-Wade's favorite song is Stale Cupcakes! Fitting for a Lazy villager who likes Nature. 
-Bubbles's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Fashion. 
-Felicity's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Fashion. 
-Cally's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Nature. 
-Derwin's favorite song is K.K. Stroll! Fitting for a Lazy villager who likes Playing. 
-Fauna's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Nature. 
-Pudge's favorite song is K.K. Stroll! Fitting for a Lazy villager who likes Playing. 
-Maddie's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Playing. 
-Buck's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
-Kody's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
-Mac's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
-Scoot's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
-Hugh's favorite song is My Place! Fitting for a Lazy villager who likes Playing. 
-Peck's favorite song is My Place! Fitting for a Jock villager who likes Playing. 
-Del's favorite song is Pondering! Fitting for a Cranky villager who likes Fitness. 
-Doc's favorite song is Pondering! Fitting for a Lazy villager who likes Education. 
-Caroline's favorite song is Pondering! Fitting for a Normal villager who likes Music. 
-Cobb's favorite song is Pondering! Fitting for a Jock villager who likes Education. 
-Claude's favorite song is Pondering! Fitting for a Lazy villager who likes Nature. 
-Hopkins's favorite song is Pondering! Fitting for a Lazy villager who likes Nature. 
-Margie's favorite song is K.K. Marathon! Fitting for a Normal villager who likes Education. 
-Sprinkle's favorite song is K.K. Marathon! Fitting for a Peppy villager who likes Playing. 
-Jitters's favorite song is K.K. Adventure! Fitting for a Jock villager who likes Fitness. 
-Rooney's favorite song is K.K. Adventure! Fitting for a Cranky villager who likes Fitness. 
-Victoria's favorite song is K.K. Adventure! Fitting for a Peppy villager who likes Fitness. 
-Vic's favorite song is K.K. March! Fitting for a Cranky villager who likes Fitness. 
-Puck's favorite song is K.K. March! Fitting for a Lazy villager who likes Fitness. 
-Bertha's favorite song is Two Days Ago! Fitting for a Normal villager who likes Education. 
-Dizzy's favorite song is Two Days Ago! Fitting for a Lazy villager who likes Playing. 
-Moe's favorite song is Two Days Ago! Fitting for a Lazy villager who likes Playing. 
-Walker's favorite song is Two Days Ago! Fitting for a Lazy villager who likes Playing. 
-Curly's favorite song is K.K. Reggae! Fitting for a Jock villager who likes Fitness. 
-Hamlet's favorite song is K.K. Reggae! Fitting for a Jock villager who likes Playing. 
-Diva's favorite song is K.K. Oasis! Fitting for a Big Sister villager who likes Fitness. 
-Boris's favorite song is K.K. Oasis! Fitting for a Cranky villager who likes Nature. 
-Pango's favorite song is K.K. Oasis! Fitting for a Peppy villager who likes Fashion. 
-Soleil's favorite song is K.K. Oasis! Fitting for a Snooty villager who likes Education. 
-Bettina's favorite song is Animal City! Fitting for a Normal villager who likes Education. 
-Gala's favorite song is Animal City! Fitting for a Normal villager who likes Education. 
-Gloria's favorite song is Animal City! Fitting for a Snooty villager who likes Fashion. 
-Bud's favorite song is Aloha K.K.! Fitting for a Jock villager who likes Fitness. 
-Alice's favorite song is Aloha K.K.! Fitting for a Normal villager who likes Education. 
-Anabelle's favorite song is Aloha K.K.! Fitting for a Peppy villager who likes Fashion. 
-Annalise's favorite song is Aloha K.K.! Fitting for a Snooty villager who likes Fashion. 
-Judy's favorite song is K.K. Lullaby! Fitting for a Snooty villager who likes Music. 
-Ribbot's favorite song is K.K. Technopop! Fitting for a Jock villager who likes Fitness. 
-Rodeo's favorite song is K.K. Technopop! Fitting for a Lazy villager who likes Fitness. 
-Jacques's favorite song is K.K. Technopop! Fitting for a Smug villager who likes Music. 
-Dora's favorite song is K.K. Faire! Fitting for a Normal villager who likes Education. 
-Cole's favorite song is K.K. Faire! Fitting for a Lazy villager who likes Nature. 
-Cranston's favorite song is K.K. Faire! Fitting for a Lazy villager who likes Nature. 
-Rory's favorite song is K.K. Faire! Fitting for a Jock villager who likes Music. 
-Boots's favorite song is Wandering! Fitting for a Jock villager who likes Playing. 
-Rex's favorite song is Wandering! Fitting for a Lazy villager who likes Nature. 
-Tad's favorite song is Wandering! Fitting for a Jock villager who likes Playing. 
-Boomer's favorite song is Farewell! Fitting for a Lazy villager who likes Fitness. 
-Diana's favorite song is Farewell! Fitting for a Snooty villager who likes Education. 
-Cube's favorite song is Farewell! Fitting for a Lazy villager who likes Playing. 
-Ava's favorite song is K.K. Love Song! Fitting for a Normal villager who likes Music. 
-Mitzi's favorite song is K.K. Love Song! Fitting for a Normal villager who likes Education. 
-Pecan's favorite song is K.K. Love Song! Fitting for a Snooty villager who likes Fashion. 
-Timbra's favorite song is K.K. Love Song! Fitting for a Snooty villager who likes Education. 
-Axel's favorite song is K.K. Dixie! Fitting for a Jock villager who likes Fitness. 
-Frobert's favorite song is K.K. Ragtime! Fitting for a Jock villager who likes Fitness. 
-Anchovy's favorite song is K.K. Ragtime! Fitting for a Lazy villager who likes Playing. 
-Antonio's favorite song is K.K. Ragtime! Fitting for a Jock villager who likes Fitness. 
-Tiffany's favorite song is K.K. Ragtime! Fitting for a Snooty villager who likes Fashion. 
-Elvis's favorite song is K.K. Casbah! Fitting for a Cranky villager who likes Education. 
-Frank's favorite song is K.K. Casbah! Fitting for a Cranky villager who likes Education. 
-Angus's favorite song is K.K. Calypso! Fitting for a Cranky villager who likes Fitness. 
-Patty's favorite song is K.K. Calypso! Fitting for a Peppy villager who likes Fashion. 
-Ursala's favorite song is Café K.K.! Fitting for a Big Sister villager who likes Music. 
-Maelle's favorite song is Café K.K.! Fitting for a Snooty villager who likes Fashion. 
-Ankha's favorite song is K.K. Bazaar! Fitting for a Snooty villager who likes Nature. 
-Violet's favorite song is K.K. Bazaar! Fitting for a Snooty villager who likes Fitness. 
-Hazel's favorite song is DJ K.K.! Fitting for a Big Sister villager who likes Playing. 
-Sylvia's favorite song is DJ K.K.! Fitting for a Big Sister villager who likes Music. 
-Tabby's favorite song is DJ K.K.! Fitting for a Peppy villager who likes Music. 
-Mira's favorite song is Go K.K. Rider! Fitting for a Big Sister villager who likes Fitness. 
-Agent S's favorite song is Go K.K. Rider! Fitting for a Peppy villager who likes Fitness. 
-Al's favorite song is Go K.K. Rider! Fitting for a Lazy villager who likes Fitness. 
-Kid Cat's favorite song is Go K.K. Rider! Fitting for a Jock villager who likes Fitness. 
-Big Top's favorite song is Go K.K. Rider! Fitting for a Lazy villager who likes Playing. 
-Genji's favorite song is King K.K.! Fitting for a Jock villager who likes Fitness. 
-Annalisa's favorite song is King K.K.! Fitting for a Normal villager who likes Nature. 
-Snake's favorite song is King K.K.! Fitting for a Jock villager who likes Fitness. 
-Charlise's favorite song is Mr. K.K.! Fitting for a Big Sister villager who likes Fitness. 
-Coach's favorite song is Mr. K.K.! Fitting for a Jock villager who likes Fitness. 
-Deena's favorite song is Mr. K.K.! Fitting for a Normal villager who likes Education. 
-Benjamin's favorite song is Mr. K.K.! Fitting for a Lazy villager who likes Nature. 
-Leopold's favorite song is Mr. K.K.! Fitting for a Smug villager who likes Education. 
-Ozzie's favorite song is Mr. K.K.! Fitting for a Lazy villager who likes Playing. 
-Raddle's favorite song is Mr. K.K.! Fitting for a Lazy villager who likes Nature. 
-Velma's favorite song is Mr. K.K.! Fitting for a Snooty villager who likes Education. 
+Boyd's favorite song is K.K. Groove! Fitting for a Cranky villager who likes Fitness. 
+Tybalt's favorite song is K.K. Groove! Fitting for a Jock villager who likes Playing. 
+Quillson's favorite song is K.K. Groove! Fitting for a Smug villager who likes Music. 
+Celia's favorite song is K.K. Soul! Fitting for a Normal villager who likes Nature. 
+Sandy's favorite song is K.K. Soul! Fitting for a Normal villager who likes Nature. 
+Bangle's favorite song is K.K. Soul! Fitting for a Peppy villager who likes Fashion. 
+Pate's favorite song is K.K. Soul! Fitting for a Peppy villager who likes Fashion. 
+Pompom's favorite song is K.K. Soul! Fitting for a Peppy villager who likes Music. 
+Chadder's favorite song is K.K. Soul! Fitting for a Smug villager who likes Fitness. 
+Henry's favorite song is K.K. Soul! Fitting for a Smug villager who likes Music. 
+Alli's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Eloise's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Mint's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Whitney's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Willow's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Pietro's favorite song is K.K. Parade! Fitting for a Smug villager who likes Music. 
+Marina's favorite song is Soulful K.K.! Fitting for a Normal villager who likes Music. 
+Tipper's favorite song is Soulful K.K.! Fitting for a Snooty villager who likes Fashion. 
+Yuka's favorite song is Soulful K.K.! Fitting for a Snooty villager who likes Fashion. 
+Grizzly's favorite song is K.K. Condor! Fitting for a Cranky villager who likes Education. 
+Rolf's favorite song is K.K. Condor! Fitting for a Cranky villager who likes Fitness. 
+Avery's favorite song is K.K. Condor! Fitting for a Cranky villager who likes Music. 
+Flora's favorite song is K.K. Condor! Fitting for a Peppy villager who likes Playing. 
+Amelia's favorite song is K.K. Condor! Fitting for a Snooty villager who likes Music. 
+Curlos's favorite song is K.K. Salsa! Fitting for a Smug villager who likes Nature. 
+Biskit's favorite song is K.K. Mambo! Fitting for a Lazy villager who likes Playing. 
+Biff's favorite song is The K. Funk! Fitting for a Jock villager who likes Fitness. 
+Kabuki's favorite song is K.K. Jongara! Fitting for a Cranky villager who likes Music. 
+Coco's favorite song is K.K. Jongara! Fitting for a Normal villager who likes Education. 
+Blanche's favorite song is K.K. Jongara! Fitting for a Snooty villager who likes Nature. 
+Butch's favorite song is K.K. Western! Fitting for a Cranky villager who likes Music. 
+Lucha's favorite song is K.K. Western! Fitting for a Smug villager who likes Fitness. 
+Fuchsia's favorite song is K.K. Rock! Fitting for a Big Sister villager who likes Music. 
+Lobo's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Education. 
+Tom's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Education. 
+Peewee's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Fitness. 
+Apollo's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Music. 
+Ike's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Nature. 
+Pierce's favorite song is K.K. Gumbo! Fitting for a Jock villager who likes Fitness. 
+Queenie's favorite song is K.K. Gumbo! Fitting for a Snooty villager who likes Fashion. 
+Astrid's favorite song is K.K. Gumbo! Fitting for a Snooty villager who likes Music. 
+Agnes's favorite song is K.K. House! Fitting for a Big Sister villager who likes Playing. 
+Spike's favorite song is K.K. House! Fitting for a Cranky villager who likes Nature. 
+Bianca's favorite song is K.K. House! Fitting for a Peppy villager who likes Playing. 
+Beardo's favorite song is K.K. Milonga! Fitting for a Smug villager who likes Education. 
+Olaf's favorite song is K.K. Milonga! Fitting for a Smug villager who likes Education. 
+Naomi's favorite song is K.K. Milonga! Fitting for a Snooty villager who likes Fashion. 
+Cyd's favorite song is K.K. Metal! Fitting for a Cranky villager who likes Music. 
+Groucho's favorite song is K.K. Metal! Fitting for a Cranky villager who likes Music. 
+Drift's favorite song is K.K. Metal! Fitting for a Jock villager who likes Fitness. 
+Leonardo's favorite song is K.K. Metal! Fitting for a Jock villager who likes Fitness. 
+Sprocket's favorite song is K.K. Metal! Fitting for a Jock villager who likes Music. 
+Bella's favorite song is K.K. Metal! Fitting for a Peppy villager who likes Music. 
+Kyle's favorite song is K.K. Metal! Fitting for a Smug villager who likes Music. 
+Buzz's favorite song is Drivin'! Fitting for a Cranky villager who likes Nature. 
+Erik's favorite song is Drivin'! Fitting for a Lazy villager who likes Nature. 
+Sydney's favorite song is Drivin'! Fitting for a Normal villager who likes Music. 
+Bea's favorite song is Drivin'! Fitting for a Normal villager who likes Nature. 
+Maggie's favorite song is Drivin'! Fitting for a Normal villager who likes Nature. 
+Dotty's favorite song is Drivin'! Fitting for a Peppy villager who likes Fashion. 
+Pippy's favorite song is Drivin'! Fitting for a Peppy villager who likes Fashion. 
+Keaton's favorite song is Drivin'! Fitting for a Smug villager who likes Music. 
+Gwen's favorite song is Drivin'! Fitting for a Snooty villager who likes Fashion. 
+Shari's favorite song is K.K. Cruisin'! Fitting for a Big Sister villager who likes Music. 
+Cesar's favorite song is K.K. Cruisin'! Fitting for a Cranky villager who likes Fitness. 
+Jambette's favorite song is K.K. Cruisin'! Fitting for a Normal villager who likes Fashion. 
+Raymond's favorite song is K.K. Cruisin'! Fitting for a Smug villager who likes Nature. 
+Vivian's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Education. 
+Baabara's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Francine's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Monique's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Opal's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Robin's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Pancetti's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Music. 
+
+insert Gaston
+Gaston's favorite song is K.K. Song! Fitting for a Cranky villager who likes Education. 
+Billy's favorite song is K.K. Song! Fitting for a Jock villager who likes Playing. 
+Jacob's favorite song is K.K. Song! Fitting for a Lazy villager who likes Nature. 
+Barold's favorite song is K.K. Song! Fitting for a Lazy villager who likes Playing. 
+Iggly's favorite song is I Love You! Fitting for a Jock villager who likes Fitness. 
+Sparro's favorite song is I Love You! Fitting for a Jock villager who likes Playing. 
+Benedict's favorite song is I Love You! Fitting for a Lazy villager who likes Playing. 
+Broccolo's favorite song is I Love You! Fitting for a Lazy villager who likes Playing. 
+Stitches's favorite song is I Love You! Fitting for a Lazy villager who likes Playing. 
+Carrie's favorite song is I Love You! Fitting for a Normal villager who likes Nature. 
+Tangy's favorite song is I Love You! Fitting for a Peppy villager who likes Music. 
+Apple's favorite song is I Love You! Fitting for a Peppy villager who likes Playing. 
+Bob's favorite song is Neapolitan! Fitting for a Lazy villager who likes Playing. 
+Clyde's favorite song is Neapolitan! Fitting for a Lazy villager who likes Playing. 
+Olive's favorite song is Neapolitan! Fitting for a Normal villager who likes Nature. 
+Anicotti's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
+Gabi's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
+Merry's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
+Truffles's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
+Candi's favorite song is Neapolitan! Fitting for a Peppy villager who likes Playing. 
+Ketchup's favorite song is Neapolitan! Fitting for a Peppy villager who likes Playing. 
+Boone's favorite song is Mountain Song! Fitting for a Jock villager who likes Fitness. 
+Beau's favorite song is Mountain Song! Fitting for a Lazy villager who likes Nature. 
+Norma's favorite song is Mountain Song! Fitting for a Normal villager who likes Nature. 
 Knox's favorite song is K.K. Chorale! Fitting for a Cranky villager who likes Education. 
 Chevre's favorite song is K.K. Chorale! Fitting for a Normal villager who likes Education. 
-Becky's favorite song is K.K. Chorale! Fitting for a Snooty villager who likes Music. 
 Colton's favorite song is K.K. Chorale! Fitting for a Smug villager who likes Nature. 
 Kitty's favorite song is K.K. Chorale! Fitting for a Snooty villager who likes Fashion. 
 Purrl's favorite song is K.K. Chorale! Fitting for a Snooty villager who likes Fashion. 
 Mathilda's favorite song is K.K. Chorale! Fitting for a Snooty villager who likes Fitness. 
-Beau's favorite song is Mountain Song! Fitting for a Lazy villager who likes Nature. 
-Norma's favorite song is Mountain Song! Fitting for a Normal villager who likes Nature. 
-Anicotti's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
-Gabi's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
-Bob's favorite song is Neapolitan! Fitting for a Lazy villager who likes Playing. 
-Candi's favorite song is Neapolitan! Fitting for a Peppy villager who likes Playing. 
-Clyde's favorite song is Neapolitan! Fitting for a Lazy villager who likes Playing. 
-Truffles's favorite song is Neapolitan! Fitting for a Peppy villager who likes Fashion. 
-Ketchup's favorite song is Neapolitan! Fitting for a Peppy villager who likes Playing. 
-Iggly's favorite song is I Love You! Fitting for a Jock villager who likes Fitness. 
-Benedict's favorite song is I Love You! Fitting for a Lazy villager who likes Playing. 
-Broccolo's favorite song is I Love You! Fitting for a Lazy villager who likes Playing. 
-Carrie's favorite song is I Love You! Fitting for a Normal villager who likes Nature. 
-Apple's favorite song is I Love You! Fitting for a Peppy villager who likes Playing. 
-Sparro's favorite song is I Love You! Fitting for a Jock villager who likes Playing. 
-Stitches's favorite song is I Love You! Fitting for a Lazy villager who likes Playing. 
-Tangy's favorite song is I Love You! Fitting for a Peppy villager who likes Music. 
-Gaston's favorite song is K.K. Song! Fitting for a Cranky villager who likes Education. 
-Barold's favorite song is K.K. Song! Fitting for a Lazy villager who likes Playing. 
-Billy's favorite song is K.K. Song! Fitting for a Jock villager who likes Playing. 
-Jacob's favorite song is K.K. Song! Fitting for a Lazy villager who likes Nature. 
+Becky's favorite song is K.K. Chorale! Fitting for a Snooty villager who likes Music. 
+Charlise's favorite song is Mr. K.K.! Fitting for a Big Sister villager who likes Fitness. 
+Coach's favorite song is Mr. K.K.! Fitting for a Jock villager who likes Fitness. 
+Teddy's favorite song is Mr. K.K.! Fitting for a Jock villager who likes Fitness. 
+Benjamin's favorite song is Mr. K.K.! Fitting for a Lazy villager who likes Nature. 
+Raddle's favorite song is Mr. K.K.! Fitting for a Lazy villager who likes Nature. 
+Ozzie's favorite song is Mr. K.K.! Fitting for a Lazy villager who likes Playing. 
+Deena's favorite song is Mr. K.K.! Fitting for a Normal villager who likes Education. 
+Leopold's favorite song is Mr. K.K.! Fitting for a Smug villager who likes Education. 
+Velma's favorite song is Mr. K.K.! Fitting for a Snooty villager who likes Education. 
+Genji's favorite song is King K.K.! Fitting for a Jock villager who likes Fitness. 
+Snake's favorite song is King K.K.! Fitting for a Jock villager who likes Fitness. 
+Annalisa's favorite song is King K.K.! Fitting for a Normal villager who likes Nature. 
+Mira's favorite song is Go K.K. Rider! Fitting for a Big Sister villager who likes Fitness. 
+Kid Cat's favorite song is Go K.K. Rider! Fitting for a Jock villager who likes Fitness. 
+Al's favorite song is Go K.K. Rider! Fitting for a Lazy villager who likes Fitness. 
+Big Top's favorite song is Go K.K. Rider! Fitting for a Lazy villager who likes Playing. 
+Agent S's favorite song is Go K.K. Rider! Fitting for a Peppy villager who likes Fitness. 
+Sylvia's favorite song is DJ K.K.! Fitting for a Big Sister villager who likes Music. 
+Hazel's favorite song is DJ K.K.! Fitting for a Big Sister villager who likes Playing. 
+Tammy's favorite song is DJ K.K.! Fitting for a Big Sister villager who likes Playing. 
+Tabby's favorite song is DJ K.K.! Fitting for a Peppy villager who likes Music. 
+Violet's favorite song is K.K. Bazaar! Fitting for a Snooty villager who likes Fitness. 
+Ankha's favorite song is K.K. Bazaar! Fitting for a Snooty villager who likes Nature. 
+Ursala's favorite song is Café K.K.! Fitting for a Big Sister villager who likes Music. 
+Maelle's favorite song is Café K.K.! Fitting for a Snooty villager who likes Fashion. 
+Angus's favorite song is K.K. Calypso! Fitting for a Cranky villager who likes Fitness. 
+Patty's favorite song is K.K. Calypso! Fitting for a Peppy villager who likes Fashion. 
+Elvis's favorite song is K.K. Casbah! Fitting for a Cranky villager who likes Education. 
+Frank's favorite song is K.K. Casbah! Fitting for a Cranky villager who likes Education. 
+Monty's favorite song is To The Edge! Fitting for a Cranky villager who likes Education. 
+Paolo's favorite song is To The Edge! Fitting for a Lazy villager who likes Nature. 
+Huck's favorite song is To The Edge! Fitting for a Smug villager who likes Fitness. 
+Antonio's favorite song is K.K. Ragtime! Fitting for a Jock villager who likes Fitness. 
+Frobert's favorite song is K.K. Ragtime! Fitting for a Jock villager who likes Fitness. 
+Anchovy's favorite song is K.K. Ragtime! Fitting for a Lazy villager who likes Playing. 
+Tiffany's favorite song is K.K. Ragtime! Fitting for a Snooty villager who likes Fashion. 
+Axel's favorite song is K.K. Dixie! Fitting for a Jock villager who likes Fitness. 
+Mitzi's favorite song is K.K. Love Song! Fitting for a Normal villager who likes Education. 
+Ava's favorite song is K.K. Love Song! Fitting for a Normal villager who likes Music. 
+Timbra's favorite song is K.K. Love Song! Fitting for a Snooty villager who likes Education. 
+Pecan's favorite song is K.K. Love Song! Fitting for a Snooty villager who likes Fashion. 
+Boomer's favorite song is Farewell! Fitting for a Lazy villager who likes Fitness. 
+Cube's favorite song is Farewell! Fitting for a Lazy villager who likes Playing. 
+Lily's favorite song is Farewell! Fitting for a Normal villager who likes Education. 
+Diana's favorite song is Farewell! Fitting for a Snooty villager who likes Education. 
+Cashmere's favorite song is Farewell! Fitting for a Snooty villager who likes Fashion. 
+Friga's favorite song is Farewell! Fitting for a Snooty villager who likes Fashion. 
+Boots's favorite song is Wandering! Fitting for a Jock villager who likes Playing. 
+Tad's favorite song is Wandering! Fitting for a Jock villager who likes Playing. 
+Rex's favorite song is Wandering! Fitting for a Lazy villager who likes Nature. 
+Rory's favorite song is K.K. Faire! Fitting for a Jock villager who likes Music. 
+Cole's favorite song is K.K. Faire! Fitting for a Lazy villager who likes Nature. 
+Cranston's favorite song is K.K. Faire! Fitting for a Lazy villager who likes Nature. 
+Dora's favorite song is K.K. Faire! Fitting for a Normal villager who likes Education. 
+Ribbot's favorite song is K.K. Technopop! Fitting for a Jock villager who likes Fitness. 
+Rodeo's favorite song is K.K. Technopop! Fitting for a Lazy villager who likes Fitness. 
+Jacques's favorite song is K.K. Technopop! Fitting for a Smug villager who likes Music. 
+Judy's favorite song is K.K. Lullaby! Fitting for a Snooty villager who likes Music. 
+Bud's favorite song is Aloha K.K.! Fitting for a Jock villager who likes Fitness. 
+Alice's favorite song is Aloha K.K.! Fitting for a Normal villager who likes Education. 
+Anabelle's favorite song is Aloha K.K.! Fitting for a Peppy villager who likes Fashion. 
+Annalise's favorite song is Aloha K.K.! Fitting for a Snooty villager who likes Fashion. 
+Bettina's favorite song is Animal City! Fitting for a Normal villager who likes Education. 
+Gala's favorite song is Animal City! Fitting for a Normal villager who likes Education. 
+Gloria's favorite song is Animal City! Fitting for a Snooty villager who likes Fashion. 
+Diva's favorite song is K.K. Oasis! Fitting for a Big Sister villager who likes Fitness. 
+Boris's favorite song is K.K. Oasis! Fitting for a Cranky villager who likes Nature. 
+Pango's favorite song is K.K. Oasis! Fitting for a Peppy villager who likes Fashion. 
+Soleil's favorite song is K.K. Oasis! Fitting for a Snooty villager who likes Education. 
+Curly's favorite song is K.K. Reggae! Fitting for a Jock villager who likes Fitness. 
+Hamlet's favorite song is K.K. Reggae! Fitting for a Jock villager who likes Playing. 
+Dizzy's favorite song is Two Days Ago! Fitting for a Lazy villager who likes Playing. 
+Moe's favorite song is Two Days Ago! Fitting for a Lazy villager who likes Playing. 
+Walker's favorite song is Two Days Ago! Fitting for a Lazy villager who likes Playing. 
+Bertha's favorite song is Two Days Ago! Fitting for a Normal villager who likes Education. 
+Vic's favorite song is K.K. March! Fitting for a Cranky villager who likes Fitness. 
+Roald's favorite song is K.K. March! Fitting for a Jock villager who likes Fitness. 
+Rod's favorite song is K.K. March! Fitting for a Jock villager who likes Fitness. 
+Puck's favorite song is K.K. March! Fitting for a Lazy villager who likes Fitness. 
+Rocket's favorite song is K.K. Adventure! Fitting for a Big Sister villager who likes Fitness. 
+Rooney's favorite song is K.K. Adventure! Fitting for a Cranky villager who likes Fitness. 
+Jitters's favorite song is K.K. Adventure! Fitting for a Jock villager who likes Fitness. 
+Victoria's favorite song is K.K. Adventure! Fitting for a Peppy villager who likes Fitness. 
+Margie's favorite song is K.K. Marathon! Fitting for a Normal villager who likes Education. 
+Sprinkle's favorite song is K.K. Marathon! Fitting for a Peppy villager who likes Playing. 
+Del's favorite song is Pondering! Fitting for a Cranky villager who likes Fitness. 
+Cobb's favorite song is Pondering! Fitting for a Jock villager who likes Education. 
+Doc's favorite song is Pondering! Fitting for a Lazy villager who likes Education. 
+Claude's favorite song is Pondering! Fitting for a Lazy villager who likes Nature. 
+Hopkins's favorite song is Pondering! Fitting for a Lazy villager who likes Nature. 
+Caroline's favorite song is Pondering! Fitting for a Normal villager who likes Music. 
+Buck's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
+Kody's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
+Mac's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
+Scoot's favorite song is My Place! Fitting for a Jock villager who likes Fitness. 
+Peck's favorite song is My Place! Fitting for a Jock villager who likes Playing. 
+Hugh's favorite song is My Place! Fitting for a Lazy villager who likes Playing. 
+Derwin's favorite song is K.K. Stroll! Fitting for a Lazy villager who likes Playing. 
+Pudge's favorite song is K.K. Stroll! Fitting for a Lazy villager who likes Playing. 
+Melba's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Education. 
+Midge's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Education. 
+Cally's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Nature. 
+Fauna's favorite song is K.K. Stroll! Fitting for a Normal villager who likes Nature. 
+Bubbles's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Fashion. 
+Carmen's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Fashion. 
+Felicity's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Fashion. 
+Maddie's favorite song is K.K. Stroll! Fitting for a Peppy villager who likes Playing. 
+Filbert's favorite song is Stale Cupcakes! Fitting for a Lazy villager who likes Nature. 
+Wade's favorite song is Stale Cupcakes! Fitting for a Lazy villager who likes Nature. 
+Aurora's favorite song is Stale Cupcakes! Fitting for a Normal villager who likes Education. 
+Kitt's favorite song is Stale Cupcakes! Fitting for a Normal villager who likes Education. 
+Ruby's favorite song is Stale Cupcakes! Fitting for a Peppy villager who likes Nature. 
+Alfonso's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
+Nate's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
+Punchy's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
+Spork's favorite song is Forest Life! Fitting for a Lazy villager who likes Playing. 
+Daisy's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
+Maple's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
+Peaches's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
+Poppy's favorite song is Forest Life! Fitting for a Normal villager who likes Education. 
+Vesta's favorite song is Forest Life! Fitting for a Normal villager who likes Fashion. 
+Lolly's favorite song is Forest Life! Fitting for a Normal villager who likes Music. 
+Savannah's favorite song is Forest Life! Fitting for a Normal villager who likes Music. 
+Skye's favorite song is Forest Life! Fitting for a Normal villager who likes Music. 
+Megan's favorite song is Forest Life! Fitting for a Normal villager who likes Nature. 
+Bunnie's favorite song is Forest Life! Fitting for a Peppy villager who likes Fashion. 
+Peanut's favorite song is Forest Life! Fitting for a Peppy villager who likes Fashion. 
+Admiral's favorite song is Steep Hill! Fitting for a Cranky villager who likes Nature. 
+Joey's favorite song is Marine Song 2001! Fitting for a Lazy villager who likes Playing. 
+Freckles's favorite song is Marine Song 2001! Fitting for a Peppy villager who likes Fashion. 
+Dobie's favorite song is Agent K.K.! Fitting for a Cranky villager who likes Nature. 
+Vladimir's favorite song is Agent K.K.! Fitting for a Cranky villager who likes Playing. 
+Eugene's favorite song is Agent K.K.! Fitting for a Smug villager who likes Music. 
+Cyrano's favorite song is K.K. Lament! Fitting for a Cranky villager who likes Education. 
+Rocco's favorite song is K.K. Lament! Fitting for a Cranky villager who likes Education. 
+Walt's favorite song is K.K. Lament! Fitting for a Cranky villager who likes Fitness. 
+Tank's favorite song is K.K. Lament! Fitting for a Jock villager who likes Fitness. 
+Hornsby's favorite song is K.K. Lament! Fitting for a Lazy villager who likes Nature. 
+Marcie's favorite song is K.K. Aria! Fitting for a Normal villager who likes Nature. 
+Harry's favorite song is K.K. Rally! Fitting for a Cranky villager who likes Education. 
+Flip's favorite song is K.K. Rally! Fitting for a Jock villager who likes Music. 
+Ken's favorite song is K.K. Rally! Fitting for a Smug villager who likes Education. 
+Cherry's favorite song is K.K. D&B! Fitting for a Big Sister villager who likes Music. 
+Wolfgang's favorite song is K.K. D&B! Fitting for a Cranky villager who likes Education. 
+Roscoe's favorite song is K.K. D&B! Fitting for a Cranky villager who likes Music. 
+Octavian's favorite song is K.K. D&B! Fitting for a Cranky villager who likes Playing. 
+Tex's favorite song is K.K. D&B! Fitting for a Smug villager who likes Music. 
+Lopez's favorite song is K.K. Jazz! Fitting for a Smug villager who likes Education. 
+Goose's favorite song is K.K. Country! Fitting for a Jock villager who likes Fitness. 
+Jay's favorite song is K.K. Country! Fitting for a Jock villager who likes Fitness. 
+Dom's favorite song is K.K. Country! Fitting for a Jock villager who likes Playing. 
+Sheldon's favorite song is K.K. Country! Fitting for a Jock villager who likes Playing. 
+Elmer's favorite song is K.K. Country! Fitting for a Lazy villager who likes Playing. 
+Winnie's favorite song is K.K. Country! Fitting for a Peppy villager who likes Fashion. 
+Shep's favorite song is K.K. Swing! Fitting for a Smug villager who likes Education. 
+Zell's favorite song is K.K. Swing! Fitting for a Smug villager who likes Music. 
+Gigi's favorite song is K.K. Swing! Fitting for a Snooty villager who likes Fashion. 
+Canberra's favorite song is K.K. Island! Fitting for a Big Sister villager who likes Playing. 
+Plucky's favorite song is K.K. Island! Fitting for a Big Sister villager who likes Playing. 
+June's favorite song is K.K. Island! Fitting for a Normal villager who likes Nature. 
+Audie's favorite song is K.K. Island! Fitting for a Peppy villager who likes Fitness. 
+O'Hare's favorite song is K.K. Island! Fitting for a Smug villager who likes Nature. 
+Paula's favorite song is K.K. Disco! Fitting for a Big Sister villager who likes Fitness. 
+Katt's favorite song is K.K. Disco! Fitting for a Big Sister villager who likes Music. 
+Pashmina's favorite song is K.K. Disco! Fitting for a Big Sister villager who likes Music. 
+Eunice's favorite song is K.K. Disco! Fitting for a Normal villager who likes Fashion. 
+Cheri's favorite song is K.K. Disco! Fitting for a Peppy villager who likes Fashion. 
+Nibbles's favorite song is K.K. Disco! Fitting for a Peppy villager who likes Fashion. 
+Puddles's favorite song is K.K. Disco! Fitting for a Peppy villager who likes Fashion. 
+Bitty's favorite song is K.K. Disco! Fitting for a Snooty villager who likes Education. 
+Portia's favorite song is K.K. Disco! Fitting for a Snooty villager who likes Fashion. 
+Deli's favorite song is K.K. Étude! Fitting for a Lazy villager who likes Nature. 
+Bones's favorite song is K.K. Étude! Fitting for a Lazy villager who likes Playing. 
+Nan's favorite song is K.K. Étude! Fitting for a Normal villager who likes Nature. 
+Kidd's favorite song is K.K. Tango! Fitting for a Smug villager who likes Education. 
+Murphy's favorite song is K.K. Safari! Fitting for a Cranky villager who likes Education. 
+Ricky's favorite song is K.K. Safari! Fitting for a Cranky villager who likes Education. 
+Camofrog's favorite song is K.K. Safari! Fitting for a Cranky villager who likes Music. 
+Lyman's favorite song is K.K. Safari! Fitting for a Jock villager who likes Playing. 
+Sly's favorite song is K.K. Safari! Fitting for a Jock villager who likes Playing. 
+Clay's favorite song is K.K. Safari! Fitting for a Lazy villager who likes Nature. 
+Tucker's favorite song is K.K. Safari! Fitting for a Lazy villager who likes Nature. 
+Simon's favorite song is K.K. Safari! Fitting for a Lazy villager who likes Playing. 
+Fang's favorite song is K.K. Steppe! Fitting for a Cranky villager who likes Education. 
+T-Bone's favorite song is K.K. Steppe! Fitting for a Cranky villager who likes Education. 
+Phoebe's favorite song is K.K. Flamenco! Fitting for a Big Sister villager who likes Fitness. 
+Stinky's favorite song is K.K. Flamenco! Fitting for a Jock villager who likes Fitness. 
+Broffina's favorite song is K.K. Flamenco! Fitting for a Snooty villager who likes Music. 
+Reneigh's favorite song is K.K. Synth! Fitting for a Big Sister villager who likes Playing. 
+Piper's favorite song is K.K. Synth! Fitting for a Peppy villager who likes Playing. 
+Tasha's favorite song is K.K. Synth! Fitting for a Snooty villager who likes Fitness. 
+Claudia's favorite song is K.K. Synth! Fitting for a Snooty villager who likes Music. 
+Zucker's favorite song is Spring Blossoms! Fitting for a Lazy villager who likes Nature. 
+Sylvana's favorite song is Spring Blossoms! Fitting for a Normal villager who likes Nature. 
+Frita's favorite song is K.K. Rockabilly! Fitting for a Big Sister villager who likes Music. 
+Gruff's favorite song is K.K. Rockabilly! Fitting for a Cranky villager who likes Music. 
+Rasher's favorite song is K.K. Rockabilly! Fitting for a Cranky villager who likes Music. 
+Moose's favorite song is K.K. Rockabilly! Fitting for a Jock villager who likes Fitness. 
+Kevin's favorite song is K.K. Rockabilly! Fitting for a Jock villager who likes Playing. 
+Stu's favorite song is K.K. Rockabilly! Fitting for a Lazy villager who likes Nature. 
+Rodney's favorite song is K.K. Rockabilly! Fitting for a Smug villager who likes Music. 
+Louie's favorite song is K.K. Fusion! Fitting for a Jock villager who likes Fitness. 
+Mott's favorite song is K.K. Fusion! Fitting for a Jock villager who likes Fitness. 
+Weber's favorite song is K.K. Fusion! Fitting for a Lazy villager who likes Nature. 
+Cleo's favorite song is K.K. Fusion! Fitting for a Snooty villager who likes Education. 
+Sterling's favorite song is K.K. Dirge! Fitting for a Jock villager who likes Fitness. 
+Lucky's favorite song is K.K. Dirge! Fitting for a Lazy villager who likes Playing. 
+Muffy's favorite song is K.K. Sonata! Fitting for a Big Sister villager who likes Music. 
+Lucy's favorite song is K.K. Sonata! Fitting for a Normal villager who likes Music. 
+Hippeux's favorite song is K.K. Sonata! Fitting for a Smug villager who likes Education. 
+Klaus's favorite song is K.K. Sonata! Fitting for a Smug villager who likes Education. 
+Hans's favorite song is K.K. Sonata! Fitting for a Smug villager who likes Fitness. 
+Julia's favorite song is K.K. Sonata! Fitting for a Snooty villager who likes Education. 
+Miranda's favorite song is K.K. Sonata! Fitting for a Snooty villager who likes Fashion. 
+Olivia's favorite song is K.K. Sonata! Fitting for a Snooty villager who likes Music. 
+Egbert's favorite song is Lucky K.K.! Fitting for a Lazy villager who likes Playing. 
+Freya's favorite song is Lucky K.K.! Fitting for a Snooty villager who likes Fashion. 
+Chops's favorite song is K.K. Moody! Fitting for a Smug villager who likes Education. 
+Lionel's favorite song is K.K. Moody! Fitting for a Smug villager who likes Music. 
+Phil's favorite song is K.K. Moody! Fitting for a Smug villager who likes Music. 
+Limberg's favorite song is K.K. Folk! Fitting for a Cranky villager who likes Education. 
+Rizzo's favorite song is K.K. Folk! Fitting for a Cranky villager who likes Education. 
+Croque's favorite song is K.K. Folk! Fitting for a Cranky villager who likes Nature. 
+Gladys's favorite song is K.K. Folk! Fitting for a Normal villager who likes Education. 
+Snooty's favorite song is K.K. Folk! Fitting for a Snooty villager who likes Education. 
+Hopper's favorite song is Comrade K.K.! Fitting for a Cranky villager who likes Music. 
+Curt's favorite song is Comrade K.K.! Fitting for a Cranky villager who likes Nature. 
+Hamphrey's favorite song is Comrade K.K.! Fitting for a Cranky villager who likes Nature. 
+Marcel's favorite song is Comrade K.K.! Fitting for a Lazy villager who likes Playing. 
+Greta's favorite song is Comrade K.K.! Fitting for a Snooty villager who likes Education. 
+Nana's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Education. 
+Rhonda's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Music. 
+Ellie's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Nature. 
+Merengue's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Nature. 
+Molly's favorite song is K.K. Ballad! Fitting for a Normal villager who likes Nature. 
+Ed's favorite song is K.K. Ballad! Fitting for a Smug villager who likes Nature. 
+Renée's favorite song is Surfin' K.K.! Fitting for a Big Sister villager who likes Music. 
+Static's favorite song is Surfin' K.K.! Fitting for a Cranky villager who likes Music. 
+Gonzo's favorite song is Surfin' K.K.! Fitting for a Cranky villager who likes Nature. 
+Rowan's favorite song is Surfin' K.K.! Fitting for a Jock villager who likes Fitness. 
+Chief's favorite song is Rockin' K.K.! Fitting for a Cranky villager who likes Music. 
+Samson's favorite song is Rockin' K.K.! Fitting for a Jock villager who likes Fitness. 
+Papi's favorite song is Hypno K.K.! Fitting for a Lazy villager who likes Nature. 
+Sherb's favorite song is Hypno K.K.! Fitting for a Lazy villager who likes Nature. 
+Jeremiah's favorite song is Hypno K.K.! Fitting for a Lazy villager who likes Playing. 
+Flurry's favorite song is Hypno K.K.! Fitting for a Normal villager who likes Nature. 
+Flo's favorite song is Space K.K.! Fitting for a Big Sister villager who likes Music. 
+Wendy's favorite song is Space K.K.! Fitting for a Peppy villager who likes Fashion. 
+Julian's favorite song is Space K.K.! Fitting for a Smug villager who likes Music. 
+Gayle's favorite song is Bubblegum K.K.! Fitting for a Normal villager who likes Nature. 
+Chrissy's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Cookie's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Penelope's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Tutu's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Twiggy's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Fashion. 
+Rosie's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Music. 
+Bonbon's favorite song is Bubblegum K.K.! Fitting for a Peppy villager who likes Playing. 
+Graham's favorite song is Bubblegum K.K.! Fitting for a Smug villager who likes Education. 
+Bruce's favorite song is K.K. Blues! Fitting for a Cranky villager who likes Nature. 
+Poncho's favorite song is K.K. Blues! Fitting for a Jock villager who likes Fitness. 
+Bam's favorite song is K.K. Blues! Fitting for a Jock villager who likes Playing. 
+Rudy's favorite song is K.K. Blues! Fitting for a Jock villager who likes Playing. 
+Drake's favorite song is K.K. Blues! Fitting for a Lazy villager who likes Playing. 
+Prince's favorite song is Only Me! Fitting for a Lazy villager who likes Playing. 
+Kiki's favorite song is Only Me! Fitting for a Normal villager who likes Education. 
+Sally's favorite song is Only Me! Fitting for a Normal villager who likes Music. 
+Stella's favorite song is Only Me! Fitting for a Normal villager who likes Nature. 
+Bluebear's favorite song is Only Me! Fitting for a Peppy villager who likes Fashion. 
+Deirdre's favorite song is K.K. Bossa! Fitting for a Big Sister villager who likes Playing. 
+Goldie's favorite song is K.K. Bossa! Fitting for a Normal villager who likes Nature. 
+Tia's favorite song is K.K. Bossa! Fitting for a Normal villager who likes Nature. 
+Peggy's favorite song is K.K. Bossa! Fitting for a Peppy villager who likes Fashion. 
+Marshal's favorite song is K.K. Bossa! Fitting for a Smug villager who likes Music. 
+Blaire's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
+Bree's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
+Elise's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
+Mallary's favorite song is K.K. Bossa! Fitting for a Snooty villager who likes Fashion. 
+Chow's favorite song is Imperial K.K.! Fitting for a Cranky villager who likes Fitness. 
+Cousteau's favorite song is Imperial K.K.! Fitting for a Jock villager who likes Fitness. 
+Bill's favorite song is Imperial K.K.! Fitting for a Jock villager who likes Playing. 
+Drago's favorite song is Imperial K.K.! Fitting for a Lazy villager who likes Nature. 
+Chester's favorite song is Imperial K.K.! Fitting for a Lazy villager who likes Playing. 
+Pekoe's favorite song is Imperial K.K.! Fitting for a Normal villager who likes Nature. 
+Pinky's favorite song is Imperial K.K.! Fitting for a Peppy villager who likes Fashion. 
+Tammi's favorite song is Imperial K.K.! Fitting for a Peppy villager who likes Fashion. 
+Boyd's favorite song is K.K. Groove! Fitting for a Cranky villager who likes Fitness. 
+Tybalt's favorite song is K.K. Groove! Fitting for a Jock villager who likes Playing. 
+Quillson's favorite song is K.K. Groove! Fitting for a Smug villager who likes Music. 
+Celia's favorite song is K.K. Soul! Fitting for a Normal villager who likes Nature. 
+Sandy's favorite song is K.K. Soul! Fitting for a Normal villager who likes Nature. 
+Bangle's favorite song is K.K. Soul! Fitting for a Peppy villager who likes Fashion. 
+Pate's favorite song is K.K. Soul! Fitting for a Peppy villager who likes Fashion. 
+Pompom's favorite song is K.K. Soul! Fitting for a Peppy villager who likes Music. 
+Chadder's favorite song is K.K. Soul! Fitting for a Smug villager who likes Fitness. 
+Henry's favorite song is K.K. Soul! Fitting for a Smug villager who likes Music. 
+Alli's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Eloise's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Mint's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Whitney's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Willow's favorite song is K.K. Soul! Fitting for a Snooty villager who likes Fashion. 
+Pietro's favorite song is K.K. Parade! Fitting for a Smug villager who likes Music. 
+Marina's favorite song is Soulful K.K.! Fitting for a Normal villager who likes Music. 
+Tipper's favorite song is Soulful K.K.! Fitting for a Snooty villager who likes Fashion. 
+Yuka's favorite song is Soulful K.K.! Fitting for a Snooty villager who likes Fashion. 
+Grizzly's favorite song is K.K. Condor! Fitting for a Cranky villager who likes Education. 
+Rolf's favorite song is K.K. Condor! Fitting for a Cranky villager who likes Fitness. 
+Avery's favorite song is K.K. Condor! Fitting for a Cranky villager who likes Music. 
+Flora's favorite song is K.K. Condor! Fitting for a Peppy villager who likes Playing. 
+Amelia's favorite song is K.K. Condor! Fitting for a Snooty villager who likes Music. 
+Curlos's favorite song is K.K. Salsa! Fitting for a Smug villager who likes Nature. 
+Biskit's favorite song is K.K. Mambo! Fitting for a Lazy villager who likes Playing. 
+Biff's favorite song is The K. Funk! Fitting for a Jock villager who likes Fitness. 
+Kabuki's favorite song is K.K. Jongara! Fitting for a Cranky villager who likes Music. 
+Coco's favorite song is K.K. Jongara! Fitting for a Normal villager who likes Education. 
+Blanche's favorite song is K.K. Jongara! Fitting for a Snooty villager who likes Nature. 
+Butch's favorite song is K.K. Western! Fitting for a Cranky villager who likes Music. 
+Lucha's favorite song is K.K. Western! Fitting for a Smug villager who likes Fitness. 
+Fuchsia's favorite song is K.K. Rock! Fitting for a Big Sister villager who likes Music. 
+Lobo's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Education. 
+Tom's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Education. 
+Peewee's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Fitness. 
+Apollo's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Music. 
+Ike's favorite song is K.K. Rock! Fitting for a Cranky villager who likes Nature. 
+Pierce's favorite song is K.K. Gumbo! Fitting for a Jock villager who likes Fitness. 
+Queenie's favorite song is K.K. Gumbo! Fitting for a Snooty villager who likes Fashion. 
+Astrid's favorite song is K.K. Gumbo! Fitting for a Snooty villager who likes Music. 
+Agnes's favorite song is K.K. House! Fitting for a Big Sister villager who likes Playing. 
+Spike's favorite song is K.K. House! Fitting for a Cranky villager who likes Nature. 
+Bianca's favorite song is K.K. House! Fitting for a Peppy villager who likes Playing. 
+Beardo's favorite song is K.K. Milonga! Fitting for a Smug villager who likes Education. 
+Olaf's favorite song is K.K. Milonga! Fitting for a Smug villager who likes Education. 
+Naomi's favorite song is K.K. Milonga! Fitting for a Snooty villager who likes Fashion. 
+Cyd's favorite song is K.K. Metal! Fitting for a Cranky villager who likes Music. 
+Groucho's favorite song is K.K. Metal! Fitting for a Cranky villager who likes Music. 
+Drift's favorite song is K.K. Metal! Fitting for a Jock villager who likes Fitness. 
+Leonardo's favorite song is K.K. Metal! Fitting for a Jock villager who likes Fitness. 
+Sprocket's favorite song is K.K. Metal! Fitting for a Jock villager who likes Music. 
+Bella's favorite song is K.K. Metal! Fitting for a Peppy villager who likes Music. 
+Kyle's favorite song is K.K. Metal! Fitting for a Smug villager who likes Music. 
+Buzz's favorite song is Drivin'! Fitting for a Cranky villager who likes Nature. 
+Erik's favorite song is Drivin'! Fitting for a Lazy villager who likes Nature. 
+Sydney's favorite song is Drivin'! Fitting for a Normal villager who likes Music. 
+Bea's favorite song is Drivin'! Fitting for a Normal villager who likes Nature. 
+Maggie's favorite song is Drivin'! Fitting for a Normal villager who likes Nature. 
+Dotty's favorite song is Drivin'! Fitting for a Peppy villager who likes Fashion. 
+Pippy's favorite song is Drivin'! Fitting for a Peppy villager who likes Fashion. 
+Keaton's favorite song is Drivin'! Fitting for a Smug villager who likes Music. 
+Gwen's favorite song is Drivin'! Fitting for a Snooty villager who likes Fashion. 
+Shari's favorite song is K.K. Cruisin'! Fitting for a Big Sister villager who likes Music. 
+Cesar's favorite song is K.K. Cruisin'! Fitting for a Cranky villager who likes Fitness. 
+Jambette's favorite song is K.K. Cruisin'! Fitting for a Normal villager who likes Fashion. 
+Raymond's favorite song is K.K. Cruisin'! Fitting for a Smug villager who likes Nature. 
+Vivian's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Education. 
+Baabara's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Francine's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Monique's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Opal's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Robin's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Fashion. 
+Pancetti's favorite song is K.K. Cruisin'! Fitting for a Snooty villager who likes Music. 
 

@@ -1,5 +1,13 @@
-//Judging ACNH villagers based on music taste and other arbitrary factors
-//*******CREATE ORDERING OF SONGS BASED ON MY OPINION********
+/**********************************************************************************************
+ * @file : Villager.java
+ * @description : Animal Crossing: New Horizons villagers, sourced from "villagers.csv", sorted
+ *                based on my personal opinion of their favorite song and other arbitrary
+ *                factors (personality, hobby, name).
+ * @author : Ella Shipman
+ * @date : September 25, 2025
+ * @acknowledgement : Jessica Li's "Animal Crossing New Horizons Catalog", "villagers.csv" file.
+ * https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset.
+ *********************************************************************************************/
 
 public class Villager implements Comparable <Villager> {
     //Name,Species,Gender,Personality,Hobby,Birthday,Catchphrase,Favorite Song,Style 1,Style 2,Color 1,Color 2,Wallpaper,Flooring,Furniture List,Filename,Unique Entry ID
@@ -7,9 +15,9 @@ public class Villager implements Comparable <Villager> {
     String personality;
     String hobby;
     String favSong;  int songRank;
-    //based on my totally factual and objective measurement of K.K. Slider's ACNH discography
-    final String[] finalKKSongRank = {"K.K. Cruisin\'", "Driving\'", "K.K. Metal", "K.K. Milonga", "K.K. House",
-            "K.K. Gumbo", "K.K. Rock", "K.K. Western", "The K. Funk", "K.K. Mambo", "K.K. Salsa", "K.K. Condor",
+    //My opinion of K.K. Slider's ACNH discography: (best to worst)
+    final String[] finalKKSongRank = {"K.K. Cruisin\'", "Drivin\'", "K.K. Metal", "K.K. Milonga", "K.K. House",
+            "K.K. Gumbo", "K.K. Rock", "K.K. Western", "K.K. Jongara", "The K. Funk", "K.K. Mambo", "K.K. Salsa", "K.K. Condor",
             "Soulful K.K.", "K.K. Parade", "K.K. Soul", "K.K. Groove", "Imperial K.K.", "K.K. Bossa", "Only Me",
             "K.K. Blues", "Bubblegum K.K.", "Space K.K.", "Hypno K.K.", "Rockin\' K.K.", "Surfin\' K.K.",
             "K.K. Ballad", "Comrade K.K.", "K.K. Folk", "K.K. Moody", "Lucky K.K.", "K.K. Sonata", "K.K. Dirge",
@@ -19,9 +27,10 @@ public class Villager implements Comparable <Villager> {
             "Steep Hill", "Forest Life", "Stale Cupcakes", "K.K. Stroll", "My Place", "Pondering", "K.K. Marathon",
             "K.K. Adventure", "K.K. March", "Two Days Ago", "K.K. Reggae", "K.K. Oasis", "Animal City", "Aloha K.K.",
             "K.K. Lullaby", "K.K. Technopop", "K.K. Faire", "Wandering", "Farewell", "K.K. Love Song", "K.K. Dixie",
-            "K.K. Ragtime", "K.K. To The Edge", "K.K. Casbah", "K.K. Calypso", "Café K.K.", "K.K. Bazaar",
+            "K.K. Ragtime", "To The Edge", "K.K. Casbah", "K.K. Calypso", "Café K.K.", "K.K. Bazaar",
             "DJ K.K.", "Go K.K. Rider", "King K.K.", "Mr. K.K.", "K.K. Chorale", "Mountain Song",  "Neapolitan",
-            "I Love You", "K.K. Song",};
+            "I Love You", "K.K. Song"};
+
 
     //Default constructor
     Villager() {
@@ -60,8 +69,6 @@ public class Villager implements Comparable <Villager> {
     //Getter for songRank
     public int getSongRank() { return songRank; }
 
-    //------------------------------Comparator Stuff------------------------------
-
     //Returns the index of favSong in the finalKKSongRank list, otherwise returns -1
     private int evaluateSong(String song) {
         if (song.isEmpty()) { return -1; }      //case where song is null
@@ -76,19 +83,32 @@ public class Villager implements Comparable <Villager> {
         return -1;                              //otherwise, return -1
     }
 
-    //compares two villagers together
+    //Compares this with Villager v. If this > v, return positive. If v < this, return negative. Otherwise, return 0.
+    //Based first on favSong, then personality, hobby, and name
     @Override
-    //Compare first by song, then hobby, then personality, then name
     public int compareTo(Villager v) {
-        if (songRank > v.getSongRank()) {           //finalKKSongRank is listed in reverse order
-            System.out.println(favSong + " is higher than " + v.getFavSong());
-            return 1;
-        } else if (songRank < v.getSongRank()) {
-            System.out.println(favSong + " is lower than " + v.getFavSong());
-            return -1;
-        } else { ////MAY NEED TO ALTER THIS BECUAUSE IDK WHAT COMPARE WILL RETURN *******************************************************
-            System.out.println("Same song! Returning " + (personality.compareTo(v.getPersonality()) + hobby.compareTo(v.getHobby()) + name.compareTo(v.getName())));
-            return personality.compareTo(v.getPersonality()) + hobby.compareTo(v.getHobby()) + name.compareTo(v.getName());
+        //case for removing a villager based on name only:
+        if (songRank == -1 || v.getSongRank() == -1) {
+            if (name.compareTo(v.getName()) == 0) { return 0; }
+        }
+        //Typical case: song rank -> perosnality -> hobby -> name
+        if (songRank == v.getSongRank()) {
+            if (personality.compareTo(v.getPersonality()) == 0) {
+                if (hobby.compareTo(v.getHobby()) == 0) {
+                    if (name.compareTo(v.getName()) == 0) {
+                        return 0;
+                    }
+                    return name.compareTo(v.getName());
+                }
+                return hobby.compareTo(v.getHobby());
+            }
+            return personality.compareTo(v.getPersonality());
+        } else {
+            if (songRank > v.getSongRank()) {           //finalKKSongRank is listed from best to worst (left -> right)
+                return -1;
+            } else {
+                return 1;
+            }
         }
     }
 
@@ -96,6 +116,11 @@ public class Villager implements Comparable <Villager> {
     @Override
     public String toString() {
         return (name + "'s favorite song is " +favSong + "! Fitting for a " + personality + " villager who likes " + hobby + ".");
+    }
+
+    //Returns whether this equals Villager v
+    public boolean equals (Villager v) {
+        return (compareTo(v) == 0);
     }
 
 }

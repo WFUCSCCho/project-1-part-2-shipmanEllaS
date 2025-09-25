@@ -3,7 +3,9 @@
  * @description : Binary Search Tree class, including a root, left, right, and Stack values.
  *                Public methods are insert(), search(), and remove().
  * @author : Ella Shipman
- * @date : September 18, 2025
+ * @date : September 25, 2025
+ * @acknowledgement : Jessica Li's "Animal Crossing New Horizons Catalog", "villagers.csv" file.
+ * https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset.
  *********************************************************************************************/
 
 
@@ -11,6 +13,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Stack;
 
+//Node class for BST below
 class Node<E extends Comparable<E>> implements Comparable<Node<E>> {
     private E value;
     private Node<E> left;
@@ -94,7 +97,6 @@ public class BST<E extends Comparable<E>> {
             }
         }
         else { return rt; }
-        System.out.println("Max found: " + max.getValue());
         return max;
     }
 
@@ -105,12 +107,10 @@ public class BST<E extends Comparable<E>> {
      */
     public void insert (Node<E> rt, Node<E> insertedNode) {
         if (rt == null) { root = insertedNode;      //No root, insert
-            //System.out.println("Setting root");
             size++;
             return; }
         if (rt.compareTo(insertedNode) > 0) {       //Inserted node is less than root, left side
             if (rt.getLeft() == null) {
-                //System.out.println("Inserted " + insertedNode.getValue() + " at left");
                 rt.setLeft(insertedNode);
                 size++;
             } else {
@@ -118,30 +118,29 @@ public class BST<E extends Comparable<E>> {
             }
         } else if (rt.compareTo(insertedNode) < 0) {        //Inserted node is greater than root, right side
             if (rt.getRight() == null) {
-                //System.out.println("Inserted " + insertedNode.getValue() + " at right");
                 rt.setRight(insertedNode);
                 size++;
             } else {
                 insert(rt.getRight(), insertedNode);
             }
         } else if (rt.compareTo(insertedNode) == 0) {       //Already exists in tree
-            //System.out.println(insertedNode.getValue() + " is already in the tree");
             return;
         }
+
+
     }
 
     /*  --------------------------------------------------------------------------------------
-     *   remove - Returns true if a given value is removed from the BST
+     *   remove - Returns a node removed from the BST
      *   Node<E> target : the removed node
      */
     public Node<E> remove(Node<E> target) {
+        Node<E> targeted = search(target);
         fillStack(root);
-        return removeHelper(target);
+        return removeHelper(targeted);
     }
     private Node<E> removeHelper(Node<E> target) {
-        if (nodeStack.isEmpty()) {
-            return null;
-        }
+        if (nodeStack.isEmpty()) { return null; }
         Node<E> currNode = nodeStack.pop();
         Node<E> parentNode = null;
         if (currNode.compareTo(target) == 0) {      //target found
@@ -166,13 +165,12 @@ public class BST<E extends Comparable<E>> {
                 simpleRemoveNode(parentNode, currNode, currNode.getLeft());
                 size--;
                 return currNode;
-            } else if (currNode.getRight() != null){                                                                    //right child only
+            } else if (currNode.getRight() != null){                //right child only
                 simpleRemoveNode(parentNode, currNode, currNode.getRight());
                 size--;
                 return currNode;
             }
         }
-        //System.out.println(currNode.getValue() + " is not the target");
         return removeHelper(target);        //target not found, move along in stack
     }
 
@@ -250,7 +248,7 @@ public class BST<E extends Comparable<E>> {
     }
 
     /*  --------------------------------------------------------------------------------------
-     *   insert - Returns a given value if it's been found in the BST
+     *   search - Returns a given node if it's been found in the BST
      *   Node<E> target : the searched node
      */
     public Node<E> search(Node<E> target) {
@@ -277,12 +275,8 @@ public class BST<E extends Comparable<E>> {
         fillStackHelper(rt);
     }
     private void fillStackHelper(Node<E> rt) {
-        if (rt == null) { //System.out.println("null root");
-            return; }
-        //System.out.println("In fill stack helper: ");
-        //System.out.println(rt.getValue()); //FOR TESTING
+        if (rt == null) { return; }
         nodeStack.push(rt);
-        //System.out.println(nodeStack.peek().getValue()); //fpr testing
         fillStackHelper(rt.getLeft());
         fillStackHelper(rt.getRight());
     }
@@ -292,9 +286,9 @@ public class BST<E extends Comparable<E>> {
         nodeStack.clear();
     }
 
-    //Prints the BST into a file (ascending order)
+    //Prints the BST into a file (ascending order/inOrder)
     public void ascendingOrderToFile(Node<E> rt, FileWriter writer) {
-        fillStack(root);
+        //fillStack(root);
         if (rt == null) { return; }
         try {
             if (rt.getLeft() != null) { ascendingOrderToFile(rt.getLeft(), writer); }
@@ -303,6 +297,8 @@ public class BST<E extends Comparable<E>> {
         } catch (IOException e) {
             System.out.println("Cannot print in file.");
         }
+
+
     }
 
     //Prints the BST into a file (pre-order)
@@ -312,10 +308,9 @@ public class BST<E extends Comparable<E>> {
         String output = "";
         while (!nodeStack.isEmpty()) {
             currNode = nodeStack.pop();
-            output = currNode.getValue().toString() + " -> " + output;
+            output = currNode.getValue().toString() + " \n" + output;
         }
         try {
-            System.out.print(output);
             writer.write(output + "\n");
         } catch (IOException e) {
             System.out.println("Cannot print in file.");
@@ -323,10 +318,3 @@ public class BST<E extends Comparable<E>> {
     }
 
 }
-
-
-
-// Implement the iterator method
-
-
-// Implement the BSTIterator class
