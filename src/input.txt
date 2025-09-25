@@ -1,25 +1,16 @@
-
-insert 111
-             insert 23
-
-insert 99
-insert         4
-
+search                      Muffy
+remove Admiral
+search  Admiral
 isEmpty
-
-    insert     111
-
+                                                                    remove Muffy
+search Pancetti
+remove Pancetti
+search Pancetti
+            search Muffy
+insert                          Muffy
+insert  Admiral
+                    insert Pancetti
+remove      Gaston
 print
-
-
-search 9
-
-remove 23
-
-remove 4
-remove 999999
-isEmptyasfh
-print
-
-insert 123
-print
+                                        insert Gaston
+                                     print
